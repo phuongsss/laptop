@@ -1,926 +1,926 @@
-{"prd":[{
-  "asus": [
-    {
-      "id": 0.10496620760898856,
-      "name": "ROG Flow Z13-ACRNM RMT02 GZ301VIC-RMT02",
-      "lastprice": 2499.99,
-      "saleprice": 0,
-      "info": {
-        "cpu": "13th Gen Intel® Core™ i9-13900H",
-        "gpu": "NVIDIA® GeForce RTX™ 4070 Laptop GPU",
-        "ds": "ROG Nebula Display",
-        "rs": "13.4 inch, QHD+ 16:10 (2560 x 1600",
-        "str": "1TB PCIe® 4.0 NVMe™ M.2 SSD (2230)",
-        "os": "Windows 11 Pro"
+{
+   "asus": [
+      {
+         "id": 0.10496620760898856,
+         "name": "ROG Flow Z13-ACRNM RMT02 GZ301VIC-RMT02",
+         "lastprice": 2499.99,
+         "saleprice": 0,
+         "info": {
+            "cpu": "13th Gen Intel® Core™ i9-13900H",
+            "gpu": "NVIDIA® GeForce RTX™ 4070 Laptop GPU",
+            "ds": "ROG Nebula Display",
+            "rs": "13.4 inch, QHD+ 16:10 (2560 x 1600",
+            "str": "1TB PCIe® 4.0 NVMe™ M.2 SSD (2230)",
+            "os": "Windows 11 Pro"
+         },
+         "img": "./img/sanpham/asus/0.png",
+         "img1": "./img/sanpham/asus/0-1.png",
+         "img2": "./img/sanpham/asus/0-2.png",
+         "img3": "./img/sanpham/asus/0-3.png",
+         "img4": "./img/sanpham/asus/0-4.png"
       },
-      "img": "./img/sanpham/asus/0.png",
-      "img1": "./img/sanpham/asus/0-1.png",
-      "img2": "./img/sanpham/asus/0-2.png",
-      "img3": "./img/sanpham/asus/0-3.png",
-      "img4": "./img/sanpham/asus/0-4.png"
-    },
-    {
-      "id": 0.5906292714332533,
-      "name": "ROG Flow Z13 (2023) GZ301VV-MU013X",
-      "lastprice": 1749.99,
-      "saleprice": 0,
-      "info": {
-        "cpu": "13th Gen Intel® Core™ i9-13900H",
-        "gpu": "NVIDIA® GeForce RTX™ 4060 Laptop GPU",
-        "ds": "ROG Nebula Display",
-        "rs": "13.4 inch, QHD+ 16:10 (2560 x 1600",
-        "str": "1TB PCIe® 4.0 NVMe™ M.2 SSD (2230)",
-        "os": "Windows 11 Pro"
+      {
+         "id": 0.5906292714332533,
+         "name": "ROG Flow Z13 (2023) GZ301VV-MU013X",
+         "lastprice": 1749.99,
+         "saleprice": 0,
+         "info": {
+            "cpu": "13th Gen Intel® Core™ i9-13900H",
+            "gpu": "NVIDIA® GeForce RTX™ 4060 Laptop GPU",
+            "ds": "ROG Nebula Display",
+            "rs": "13.4 inch, QHD+ 16:10 (2560 x 1600",
+            "str": "1TB PCIe® 4.0 NVMe™ M.2 SSD (2230)",
+            "os": "Windows 11 Pro"
+         },
+         "img": "./img/sanpham/asus/1.png",
+         "img1": "./img/sanpham/asus/1-1.png",
+         "img2": "./img/sanpham/asus/1-2.png",
+         "img3": "./img/sanpham/asus/1-3.png",
+         "img4": "./img/sanpham/asus/1-4.png"
       },
-      "img": "./img/sanpham/asus/1.png",
-      "img1": "./img/sanpham/asus/1-1.png",
-      "img2": "./img/sanpham/asus/1-2.png",
-      "img3": "./img/sanpham/asus/1-3.png",
-      "img4": "./img/sanpham/asus/1-4.png"
-    },
-    {
-      "id": 0.8225347248327213,
-      "name": "ROG Zephyrus G14 (2023) GA402XZ-0007",
-      "lastprice": 1599.99,
-      "saleprice": 32,
-      "info": {
-        "cpu": "AMD Ryzen™ 9 7940HS",
-        "gpu": "NVIDIA® GeForce RTX™ 4080 Laptop GPU",
-        "ds": "ROG Nebula Display",
-        "rs": "13.4 inch, QHD+ 16:10 (2560 x 1600",
-        "str": "1TB PCIe® 4.0 NVMe™ M.2 SSD (2230)",
-        "os": "Windows 11 Pro"
+      {
+         "id": 0.8225347248327213,
+         "name": "ROG Zephyrus G14 (2023) GA402XZ-0007",
+         "lastprice": 1599.99,
+         "saleprice": 32,
+         "info": {
+            "cpu": "AMD Ryzen™ 9 7940HS",
+            "gpu": "NVIDIA® GeForce RTX™ 4080 Laptop GPU",
+            "ds": "ROG Nebula Display",
+            "rs": "13.4 inch, QHD+ 16:10 (2560 x 1600",
+            "str": "1TB PCIe® 4.0 NVMe™ M.2 SSD (2230)",
+            "os": "Windows 11 Pro"
+         },
+         "img": "./img/sanpham/asus/2.png",
+         "img1": "./img/sanpham/asus/2-1.png",
+         "img2": "./img/sanpham/asus/2-2.png",
+         "img3": "./img/sanpham/asus/2-3.png",
+         "img4": "./img/sanpham/asus/2-4.png"
       },
-      "img": "./img/sanpham/asus/2.png",
-      "img1": "./img/sanpham/asus/2-1.png",
-      "img2": "./img/sanpham/asus/2-2.png",
-      "img3": "./img/sanpham/asus/2-3.png",
-      "img4": "./img/sanpham/asus/2-4.png"
-    },
-    {
-      "id": 0.4830167582331837,
-      "name": "ROG Zephyrus Duo 16 (2023) GX650PZ-NM055X",
-      "lastprice": 3499.99,
-      "saleprice": 11,
-      "info": {
-        "cpu": "AMD Ryzen™ 9 7945HX",
-        "gpu": "NVIDIA® GeForce RTX™ 4080 Laptop GPU",
-        "ds": "16 inch, QHD+ 16:10 (2560 x 1600, WQXGA), Refresh Rate:240Hz",
-        "rs": "14 3840 x 1100(4K) IPS-level Panel",
-        "str": "2TB + 2TB PCIe® 4.0 NVMe™ M.2 Performance SSD (RAID 0)",
-        "os": "Windows 11 Pro"
+      {
+         "id": 0.4830167582331837,
+         "name": "ROG Zephyrus Duo 16 (2023) GX650PZ-NM055X",
+         "lastprice": 3499.99,
+         "saleprice": 11,
+         "info": {
+            "cpu": "AMD Ryzen™ 9 7945HX",
+            "gpu": "NVIDIA® GeForce RTX™ 4080 Laptop GPU",
+            "ds": "16 inch, QHD+ 16:10 (2560 x 1600, WQXGA), Refresh Rate:240Hz",
+            "rs": "14 3840 x 1100(4K) IPS-level Panel",
+            "str": "2TB + 2TB PCIe® 4.0 NVMe™ M.2 Performance SSD (RAID 0)",
+            "os": "Windows 11 Pro"
+         },
+         "img": "./img/sanpham/asus/3.png",
+         "img1": "./img/sanpham/asus/3-1.png",
+         "img2": "./img/sanpham/asus/3-2.png",
+         "img3": "./img/sanpham/asus/3-3.png",
+         "img4": "./img/sanpham/asus/3-4.png"
       },
-      "img": "./img/sanpham/asus/3.png",
-      "img1": "./img/sanpham/asus/3-1.png",
-      "img2": "./img/sanpham/asus/3-2.png",
-      "img3": "./img/sanpham/asus/3-3.png",
-      "img4": "./img/sanpham/asus/3-4.png"
-    },
-    {
-      "id": 0.7720153837395187,
-      "name": "ROG Strix SCAR 17 X3D (2023) G733PYV-LL061X",
-      "lastprice": 2899.99,
-      "saleprice": 10,
-      "info": {
-        "cpu": "AMD Ryzen™ 9 7945HX",
-        "gpu": "NVIDIA® GeForce RTX™ 4090 Laptop GPU",
-        "ds": "Unknown",
-        "rs": "17.3 inch, WQHD (2560 x 1440) 16:9, Refresh Rate:240Hz",
-        "str": "2TB PCIe® 4.0 NVMe™ M.2 Performance SSD",
-        "os": "Windows 11 Pro"
+      {
+         "id": 0.7720153837395187,
+         "name": "ROG Strix SCAR 17 X3D (2023) G733PYV-LL061X",
+         "lastprice": 2899.99,
+         "saleprice": 10,
+         "info": {
+            "cpu": "AMD Ryzen™ 9 7945HX",
+            "gpu": "NVIDIA® GeForce RTX™ 4090 Laptop GPU",
+            "ds": "Unknown",
+            "rs": "17.3 inch, WQHD (2560 x 1440) 16:9, Refresh Rate:240Hz",
+            "str": "2TB PCIe® 4.0 NVMe™ M.2 Performance SSD",
+            "os": "Windows 11 Pro"
+         },
+         "img": "./img/sanpham/asus/4.png",
+         "img1": "./img/sanpham/asus/4-1.png",
+         "img2": "./img/sanpham/asus/4-2.png",
+         "img3": "./img/sanpham/asus/4-3.png",
+         "img4": "./img/sanpham/asus/4-4.png"
       },
-      "img": "./img/sanpham/asus/4.png",
-      "img1": "./img/sanpham/asus/4-1.png",
-      "img2": "./img/sanpham/asus/4-2.png",
-      "img3": "./img/sanpham/asus/4-3.png",
-      "img4": "./img/sanpham/asus/4-4.png"
-    },
-    {
-      "id": 0.27182507308723114,
-      "name": "ROG Strix SCAR 18 (2023) G834JZ-N6027X",
-      "lastprice": 3899,
-      "saleprice": 0,
-      "info": {
-        "cpu": "13th Gen Intel® Core™ i9-13980HX",
-        "gpu": "NVIDIA® GeForce RTX™ 4080 Laptop GPU",
-        "ds": "ROG Nebula Display",
-        "rs": "18 inch, QHD+ 16:10 (2560 x 1600, WQXGA), Refresh Rate:240Hz",
-        "str": "2TB + 2TB PCIe® 4.0 NVMe™ M.2 Performance SSD (RAID 0)",
-        "os": "Windows 11 Pro"
+      {
+         "id": 0.27182507308723114,
+         "name": "ROG Strix SCAR 18 (2023) G834JZ-N6027X",
+         "lastprice": 3899,
+         "saleprice": 0,
+         "info": {
+            "cpu": "13th Gen Intel® Core™ i9-13980HX",
+            "gpu": "NVIDIA® GeForce RTX™ 4080 Laptop GPU",
+            "ds": "ROG Nebula Display",
+            "rs": "18 inch, QHD+ 16:10 (2560 x 1600, WQXGA), Refresh Rate:240Hz",
+            "str": "2TB + 2TB PCIe® 4.0 NVMe™ M.2 Performance SSD (RAID 0)",
+            "os": "Windows 11 Pro"
+         },
+         "img": "./img/sanpham/asus/5.png",
+         "img1": "./img/sanpham/asus/5-1.png",
+         "img2": "./img/sanpham/asus/5-2.png",
+         "img3": "./img/sanpham/asus/5-3.png",
+         "img4": "./img/sanpham/asus/5-4.png"
       },
-      "img": "./img/sanpham/asus/5.png",
-      "img1": "./img/sanpham/asus/5-1.png",
-      "img2": "./img/sanpham/asus/5-2.png",
-      "img3": "./img/sanpham/asus/5-3.png",
-      "img4": "./img/sanpham/asus/5-4.png"
-    },
-    {
-      "id": 0.9474548635639177,
-      "name": "ASUS TUF Gaming A16 Advantage Edition (2023)",
-      "lastprice": 949.99,
-      "saleprice": 8,
-      "info": {
-        "cpu": "Up to AMD Ryzen™ 7040 Series Processor",
-        "gpu": "Up to AMD Radeon™ RX7700S Mobile Graphics",
-        "ds": "Unknown",
-        "rs": "Up to QHD 240Hz 16-inch display",
-        "str": "Up to 2TB PCIe Gen4x4 SSD, DDR5 RAM",
-        "os": "Windows 11 Pro"
+      {
+         "id": 0.9474548635639177,
+         "name": "ASUS TUF Gaming A16 Advantage Edition (2023)",
+         "lastprice": 949.99,
+         "saleprice": 8,
+         "info": {
+            "cpu": "Up to AMD Ryzen™ 7040 Series Processor",
+            "gpu": "Up to AMD Radeon™ RX7700S Mobile Graphics",
+            "ds": "Unknown",
+            "rs": "Up to QHD 240Hz 16-inch display",
+            "str": "Up to 2TB PCIe Gen4x4 SSD, DDR5 RAM",
+            "os": "Windows 11 Pro"
+         },
+         "img": "./img/sanpham/asus/6.png",
+         "img1": "./img/sanpham/asus/6-1.png",
+         "img2": "./img/sanpham/asus/6-2.png",
+         "img3": "./img/sanpham/asus/6-3.png",
+         "img4": "./img/sanpham/asus/6-4.png"
       },
-      "img": "./img/sanpham/asus/6.png",
-      "img1": "./img/sanpham/asus/6-1.png",
-      "img2": "./img/sanpham/asus/6-2.png",
-      "img3": "./img/sanpham/asus/6-3.png",
-      "img4": "./img/sanpham/asus/6-4.png"
-    },
-    {
-      "id": 0.1252984511845734,
-      "name": "ASUS TUF Gaming A17 (2022)",
-      "lastprice": 1499.99,
-      "saleprice": 0,
-      "info": {
-        "cpu": "AMD Ryzen™ 7 6800H Processor",
-        "gpu": "Up to GeForce RTX™ 3070 Laptop GPU",
-        "ds": "Unknown",
-        "rs": "17.3” FHD 144Hz Display",
-        "str": "MIL-STD-810H Standards",
-        "os": "Windows 11 Pro"
+      {
+         "id": 0.1252984511845734,
+         "name": "ASUS TUF Gaming A17 (2022)",
+         "lastprice": 1499.99,
+         "saleprice": 0,
+         "info": {
+            "cpu": "AMD Ryzen™ 7 6800H Processor",
+            "gpu": "Up to GeForce RTX™ 3070 Laptop GPU",
+            "ds": "Unknown",
+            "rs": "17.3” FHD 144Hz Display",
+            "str": "MIL-STD-810H Standards",
+            "os": "Windows 11 Pro"
+         },
+         "img": "./img/sanpham/asus/7.png",
+         "img1": "./img/sanpham/asus/7-1.png",
+         "img2": "./img/sanpham/asus/7-2.png",
+         "img3": "./img/sanpham/asus/7-3.png",
+         "img4": "./img/sanpham/asus/7-4.png"
       },
-      "img": "./img/sanpham/asus/7.png",
-      "img1": "./img/sanpham/asus/7-1.png",
-      "img2": "./img/sanpham/asus/7-2.png",
-      "img3": "./img/sanpham/asus/7-3.png",
-      "img4": "./img/sanpham/asus/7-4.png"
-    },
-    {
-      "id": 0.8290411264816449,
-      "name": "ExpertBook B9 OLED (B9403, 13th Gen Intel)",
-      "lastprice": 2439.99,
-      "saleprice": 20,
-      "info": {
-        "cpu": "Up to 13th gen Intel® Core™ processor with vPro® support",
-        "gpu": "Intel Iris Xe Graphics",
-        "ds": "Unknown",
-        "rs": "16:10 WQXGA+ OLED display",
-        "str": "Ultralight sustainable design",
-        "os": "Windows 11 Pro"
+      {
+         "id": 0.8290411264816449,
+         "name": "ExpertBook B9 OLED (B9403, 13th Gen Intel)",
+         "lastprice": 2439.99,
+         "saleprice": 20,
+         "info": {
+            "cpu": "Up to 13th gen Intel® Core™ processor with vPro® support",
+            "gpu": "Intel Iris Xe Graphics",
+            "ds": "Unknown",
+            "rs": "16:10 WQXGA+ OLED display",
+            "str": "Ultralight sustainable design",
+            "os": "Windows 11 Pro"
+         },
+         "img": "./img/sanpham/asus/8.png",
+         "img1": "./img/sanpham/asus/8-1.png",
+         "img2": "./img/sanpham/asus/8-2.png",
+         "img3": "./img/sanpham/asus/8-3.png",
+         "img4": "./img/sanpham/asus/8-4.png"
       },
-      "img": "./img/sanpham/asus/8.png",
-      "img1": "./img/sanpham/asus/8-1.png",
-      "img2": "./img/sanpham/asus/8-2.png",
-      "img3": "./img/sanpham/asus/8-3.png",
-      "img4": "./img/sanpham/asus/8-4.png"
-    },
-    {
-      "id": 0.40128833920819407,
-      "name": "ExpertBook B5 (B5602, 13th Gen Intel)",
-      "lastprice": 1699.99,
-      "saleprice": 23,
-      "info": {
-        "cpu": "Up to 13th gen Intel® Core™ i7 vPro processor",
-        "gpu": "Intel Iris Xe Graphics",
-        "ds": "Unknown",
-        "rs": "World’s lightest 16” business laptop from 1.4kg",
-        "str": "Dual-SSD RAID support up to 2 TB capacity",
-        "os": "Windows 11 Pro"
+      {
+         "id": 0.40128833920819407,
+         "name": "ExpertBook B5 (B5602, 13th Gen Intel)",
+         "lastprice": 1699.99,
+         "saleprice": 23,
+         "info": {
+            "cpu": "Up to 13th gen Intel® Core™ i7 vPro processor",
+            "gpu": "Intel Iris Xe Graphics",
+            "ds": "Unknown",
+            "rs": "World’s lightest 16” business laptop from 1.4kg",
+            "str": "Dual-SSD RAID support up to 2 TB capacity",
+            "os": "Windows 11 Pro"
+         },
+         "img": "./img/sanpham/asus/9.png",
+         "img1": "./img/sanpham/asus/9-1.png",
+         "img2": "./img/sanpham/asus/9-2.png",
+         "img3": "./img/sanpham/asus/9-3.png",
+         "img4": "./img/sanpham/asus/9-4.png"
+      }
+   ],
+   "msi": [
+      {
+         "id": 0.8563595310495673,
+         "name": "Titan GT77 HX 13V",
+         "lastprice": 3199,
+         "saleprice": 19,
+         "info": {
+            "cpu": "Intel® Core™ i9-13980HX processor",
+            "gpu": "GEFORCE RTX 40 SERIES LAPTOPS",
+            "ds": "Unknown",
+            "rs": "Mini LED 4K 144Hz Display",
+            "str": "More Storage. More Memory. More Expansion",
+            "os": "Windows 11 Pro"
+         },
+         "img": "./img/sanpham/msi/1.png",
+         "img1": "./img/sanpham/msi/1-1.png",
+         "img2": "./img/sanpham/msi/1-2.png",
+         "img3": "./img/sanpham/msi/1-3.png",
+         "img4": "./img/sanpham/msi/1-4.png"
       },
-      "img": "./img/sanpham/asus/9.png",
-      "img1": "./img/sanpham/asus/9-1.png",
-      "img2": "./img/sanpham/asus/9-2.png",
-      "img3": "./img/sanpham/asus/9-3.png",
-      "img4": "./img/sanpham/asus/9-4.png"
-    }
-  ],
-  "msi": [
-    {
-      "id": 0.8563595310495673,
-      "name": "Titan GT77 HX 13V",
-      "lastprice": 3199,
-      "saleprice": 19,
-      "info": {
-        "cpu": "Intel® Core™ i9-13980HX processor",
-        "gpu": "GEFORCE RTX 40 SERIES LAPTOPS",
-        "ds": "Unknown",
-        "rs": "Mini LED 4K 144Hz Display",
-        "str": "More Storage. More Memory. More Expansion",
-        "os": "Windows 11 Pro"
+      {
+         "id": 0.4351908950634469,
+         "name": "Stealth 16 Mercedes-AMG Motorsport A13V",
+         "lastprice": 2899,
+         "saleprice": 0,
+         "info": {
+            "cpu": " Performance compared to previous gen i9-12900H. Specs varies by model",
+            "gpu": "Up to latest GeForce RTX™ 4070 Laptop GPU 8GB GDDR6",
+            "ds": "Magnesium-Aluminum Alloy Chassis",
+            "rs": "16 UHD+ (3840 x 2400), 16:10, 100% DCI-P3 (Typ.), OLED panel",
+            "str": "More Storage. More Memory. More Expansion",
+            "os": "Windows 11 Pro"
+         },
+         "img": "./img/sanpham/msi/1.png",
+         "img1": "./img/sanpham/msi/1-1.png",
+         "img2": "./img/sanpham/msi/1-2.png",
+         "img3": "./img/sanpham/msi/1-3.png",
+         "img4": "./img/sanpham/msi/1-4.png"
       },
-      "img": "./img/sanpham/msi/1.png",
-      "img1": "./img/sanpham/msi/1-1.png",
-      "img2": "./img/sanpham/msi/1-2.png",
-      "img3": "./img/sanpham/msi/1-3.png",
-      "img4": "./img/sanpham/msi/1-4.png"
-    },
-    {
-      "id": 0.4351908950634469,
-      "name": "Stealth 16 Mercedes-AMG Motorsport A13V",
-      "lastprice": 2899,
-      "saleprice": 0,
-      "info": {
-        "cpu": " Performance compared to previous gen i9-12900H. Specs varies by model",
-        "gpu": "Up to latest GeForce RTX™ 4070 Laptop GPU 8GB GDDR6",
-        "ds": "Magnesium-Aluminum Alloy Chassis",
-        "rs": "16 UHD+ (3840 x 2400), 16:10, 100% DCI-P3 (Typ.), OLED panel",
-        "str": "More Storage. More Memory. More Expansion",
-        "os": "Windows 11 Pro"
+      {
+         "id": 0.16031570609063173,
+         "name": "Stealth 17 Studio A13V",
+         "lastprice": 2793.89,
+         "saleprice": 0,
+         "info": {
+            "cpu": "Up to latest 13th Gen. Intel® Core™ i9 processor",
+            "gpu": "Up to latest GeForce RTX™ 4090 Laptop GPU 16GB GDDR6",
+            "ds": "17.3 miniLED 4k 144Hz 100% sRGB (Typical), IPS-Level panel (Optional)",
+            "rs": "17.3 QHD (2560x1440), 240 Hz Refresh Rate, 100% DCI-P3(Typical), IPS-Level panel (Optional)",
+            "str": "More Storage. More Memory. More Expansion",
+            "os": "Windows 11 Pro"
+         },
+         "img": "./img/sanpham/msi/2.png",
+         "img1": "./img/sanpham/msi/2-1.png",
+         "img2": "./img/sanpham/msi/2-2.png",
+         "img3": "./img/sanpham/msi/2-3.png",
+         "img4": "./img/sanpham/msi/2-4.png"
       },
-      "img": "./img/sanpham/msi/1.png",
-      "img1": "./img/sanpham/msi/1-1.png",
-      "img2": "./img/sanpham/msi/1-2.png",
-      "img3": "./img/sanpham/msi/1-3.png",
-      "img4": "./img/sanpham/msi/1-4.png"
-    },
-    {
-      "id": 0.16031570609063173,
-      "name": "Stealth 17 Studio A13V",
-      "lastprice": 2793.89,
-      "saleprice": 0,
-      "info": {
-        "cpu": "Up to latest 13th Gen. Intel® Core™ i9 processor",
-        "gpu": "Up to latest GeForce RTX™ 4090 Laptop GPU 16GB GDDR6",
-        "ds": "17.3 miniLED 4k 144Hz 100% sRGB (Typical), IPS-Level panel (Optional)",
-        "rs": "17.3 QHD (2560x1440), 240 Hz Refresh Rate, 100% DCI-P3(Typical), IPS-Level panel (Optional)",
-        "str": "More Storage. More Memory. More Expansion",
-        "os": "Windows 11 Pro"
+      {
+         "id": 0.2577933108482686,
+         "name": "STEALTH 17M",
+         "lastprice": 2793.89,
+         "saleprice": 0,
+         "info": {
+            "cpu": "Latest 12th Gen Intel® Core™ i7 processor",
+            "gpu": "Latest GeForce RTX™ 3060 Laptop GPU 6GB GDDR6",
+            "ds": "Ultra-light 2.2kg, Ultra-slim 21.55mm",
+            "rs": "17.3 FHD(1920x1080), 144Hz Refresh Rate, IPS-Level panel(Optional)",
+            "str": "More Storage. More Memory. More Expansion",
+            "os": "Windows 11 Pro"
+         },
+         "img": "./img/sanpham/msi/3.png",
+         "img1": "./img/sanpham/msi/3-1.png",
+         "img2": "./img/sanpham/msi/3-2.png",
+         "img3": "./img/sanpham/msi/3-3.png",
+         "img4": "./img/sanpham/msi/3-4.png"
       },
-      "img": "./img/sanpham/msi/2.png",
-      "img1": "./img/sanpham/msi/2-1.png",
-      "img2": "./img/sanpham/msi/2-2.png",
-      "img3": "./img/sanpham/msi/2-3.png",
-      "img4": "./img/sanpham/msi/2-4.png"
-    },
-    {
-      "id": 0.2577933108482686,
-      "name": "STEALTH 17M",
-      "lastprice": 2793.89,
-      "saleprice": 0,
-      "info": {
-        "cpu": "Latest 12th Gen Intel® Core™ i7 processor",
-        "gpu": "Latest GeForce RTX™ 3060 Laptop GPU 6GB GDDR6",
-        "ds": "Ultra-light 2.2kg, Ultra-slim 21.55mm",
-        "rs": "17.3 FHD(1920x1080), 144Hz Refresh Rate, IPS-Level panel(Optional)",
-        "str": "More Storage. More Memory. More Expansion",
-        "os": "Windows 11 Pro"
+      {
+         "id": 0.2362956202289861,
+         "name": "Raider GE78 HX Smart Touchpad 13V",
+         "lastprice": 2599,
+         "saleprice": 0,
+         "info": {
+            "cpu": "Latest Intel® Core™ i9-13980HX processor",
+            "gpu": "Latest GeForce RTX™ 4070 Laptop GPU 8GB GDDR6",
+            "ds": "Unknown",
+            "rs": "17 QHD+ (2560x1600), 240 Hz Refresh Rate, 100% DCI-P3(Typical), IPS-Level panel (Optional)",
+            "str": "More Storage. More Memory. More Expansion",
+            "os": "Windows 11 Pro"
+         },
+         "img": "./img/sanpham/msi/4.png",
+         "img1": "./img/sanpham/msi/4-1.png",
+         "img2": "./img/sanpham/msi/4-2.png",
+         "img3": "./img/sanpham/msi/4-3.png",
+         "img4": "./img/sanpham/msi/4-4.png"
       },
-      "img": "./img/sanpham/msi/3.png",
-      "img1": "./img/sanpham/msi/3-1.png",
-      "img2": "./img/sanpham/msi/3-2.png",
-      "img3": "./img/sanpham/msi/3-3.png",
-      "img4": "./img/sanpham/msi/3-4.png"
-    },
-    {
-      "id": 0.2362956202289861,
-      "name": "Raider GE78 HX Smart Touchpad 13V",
-      "lastprice": 2599,
-      "saleprice": 0,
-      "info": {
-        "cpu": "Latest Intel® Core™ i9-13980HX processor",
-        "gpu": "Latest GeForce RTX™ 4070 Laptop GPU 8GB GDDR6",
-        "ds": "Unknown",
-        "rs": "17 QHD+ (2560x1600), 240 Hz Refresh Rate, 100% DCI-P3(Typical), IPS-Level panel (Optional)",
-        "str": "More Storage. More Memory. More Expansion",
-        "os": "Windows 11 Pro"
+      {
+         "id": 0.6208590136152712,
+         "name": "Latest 12th Gen. Intel® Core™ i9 processor",
+         "lastprice": 1859,
+         "saleprice": 0,
+         "info": {
+            "cpu": "Latest Intel® Core™ i9-13980HX processor",
+            "gpu": "Up to latest GeForce RTX™ 3080 Ti Laptop GPU 16GB GDDR6",
+            "ds": "17. UHD (3840x2160), 120 Hz Refresh Rate, 100% DCI-P3, IPS-Level panel (Optional)",
+            "rs": "17.3 QHD (2560x1440), 240 Hz Refresh Rate, 100% DCI-P3(Typical), IPS-Level panel (Optional)",
+            "str": "More Storage. More Memory. More Expansion",
+            "os": "Windows 11 Pro"
+         },
+         "img": "./img/sanpham/msi/5.png",
+         "img1": "./img/sanpham/msi/5-1.png",
+         "img2": "./img/sanpham/msi/5-2.png",
+         "img3": "./img/sanpham/msi/5-3.png",
+         "img4": "./img/sanpham/msi/5-4.png"
       },
-      "img": "./img/sanpham/msi/4.png",
-      "img1": "./img/sanpham/msi/4-1.png",
-      "img2": "./img/sanpham/msi/4-2.png",
-      "img3": "./img/sanpham/msi/4-3.png",
-      "img4": "./img/sanpham/msi/4-4.png"
-    },
-    {
-      "id": 0.6208590136152712,
-      "name": "Latest 12th Gen. Intel® Core™ i9 processor",
-      "lastprice": 1859,
-      "saleprice": 0,
-      "info": {
-        "cpu": "Latest Intel® Core™ i9-13980HX processor",
-        "gpu": "Up to latest GeForce RTX™ 3080 Ti Laptop GPU 16GB GDDR6",
-        "ds": "17. UHD (3840x2160), 120 Hz Refresh Rate, 100% DCI-P3, IPS-Level panel (Optional)",
-        "rs": "17.3 QHD (2560x1440), 240 Hz Refresh Rate, 100% DCI-P3(Typical), IPS-Level panel (Optional)",
-        "str": "More Storage. More Memory. More Expansion",
-        "os": "Windows 11 Pro"
+      {
+         "id": 0.5543922406535864,
+         "name": "Vector GP78 HX 13V",
+         "lastprice": 4499,
+         "saleprice": 0,
+         "info": {
+            "cpu": "Up to the 13th Gen. Intel® Core™ i9-13980HX processor",
+            "gpu": "Up to the latest GeForce RTX™ 4090 Laptop GPU 16GB GDDR6",
+            "ds": "Powered by NVIDIA® DLSS 3, ultra-efficient Ada Lovelace arch, and Max-Q Technologies.",
+            "rs": "17 QHD+ (2560x1600), 240Hz Refresh Rate, 100% DCI-P3 (Typical)(Optional)",
+            "str": "More Storage. More Memory. More Expansion",
+            "os": "Windows 11 Pro"
+         },
+         "img": "./img/sanpham/msi/6.png",
+         "img1": "./img/sanpham/msi/6-1.png",
+         "img2": "./img/sanpham/msi/6-2.png",
+         "img3": "./img/sanpham/msi/6-3.png",
+         "img4": "./img/sanpham/msi/6-4.png"
       },
-      "img": "./img/sanpham/msi/5.png",
-      "img1": "./img/sanpham/msi/5-1.png",
-      "img2": "./img/sanpham/msi/5-2.png",
-      "img3": "./img/sanpham/msi/5-3.png",
-      "img4": "./img/sanpham/msi/5-4.png"
-    },
-    {
-      "id": 0.5543922406535864,
-      "name": "Vector GP78 HX 13V",
-      "lastprice": 4499,
-      "saleprice": 0,
-      "info": {
-        "cpu": "Up to the 13th Gen. Intel® Core™ i9-13980HX processor",
-        "gpu": "Up to the latest GeForce RTX™ 4090 Laptop GPU 16GB GDDR6",
-        "ds": "Powered by NVIDIA® DLSS 3, ultra-efficient Ada Lovelace arch, and Max-Q Technologies.",
-        "rs": "17 QHD+ (2560x1600), 240Hz Refresh Rate, 100% DCI-P3 (Typical)(Optional)",
-        "str": "More Storage. More Memory. More Expansion",
-        "os": "Windows 11 Pro"
+      {
+         "id": 0.23327042566176015,
+         "name": "Vector GP78 HX 13V",
+         "lastprice": 2399,
+         "saleprice": 0,
+         "info": {
+            "cpu": "Up to latest 12th Gen. Intel® Core™ i9 processor",
+            "gpu": "Up to latest GeForce RTX™ 3080 Laptop GPU 8GB GDDR6",
+            "ds": "17.3 QHD(2560x1440), 240Hz Refresh Rate, 100% DCI-P3 (Typical), IPS-Level panel(Optional)",
+            "rs": "17.3 FHD(1920x1080), 360Hz Refresh Rate, IPS-Level panel(Optional)",
+            "str": "More Storage. More Memory. More Expansion",
+            "os": "Windows 11 Pro"
+         },
+         "img": "./img/sanpham/msi/7.png",
+         "img1": "./img/sanpham/msi/7-1.png",
+         "img2": "./img/sanpham/msi/7-2.png",
+         "img3": "./img/sanpham/msi/7-3.png",
+         "img4": "./img/sanpham/msi/7-4.png"
       },
-      "img": "./img/sanpham/msi/6.png",
-      "img1": "./img/sanpham/msi/6-1.png",
-      "img2": "./img/sanpham/msi/6-2.png",
-      "img3": "./img/sanpham/msi/6-3.png",
-      "img4": "./img/sanpham/msi/6-4.png"
-    },
-    {
-      "id": 0.23327042566176015,
-      "name": "Vector GP78 HX 13V",
-      "lastprice": 2399,
-      "saleprice": 0,
-      "info": {
-        "cpu": "Up to latest 12th Gen. Intel® Core™ i9 processor",
-        "gpu": "Up to latest GeForce RTX™ 3080 Laptop GPU 8GB GDDR6",
-        "ds": "17.3 QHD(2560x1440), 240Hz Refresh Rate, 100% DCI-P3 (Typical), IPS-Level panel(Optional)",
-        "rs": "17.3 FHD(1920x1080), 360Hz Refresh Rate, IPS-Level panel(Optional)",
-        "str": "More Storage. More Memory. More Expansion",
-        "os": "Windows 11 Pro"
+      {
+         "id": 0.39860556289274407,
+         "name": "Vector GP78 HX 13V",
+         "lastprice": 2399,
+         "saleprice": 0,
+         "info": {
+            "cpu": "Up to latest 12th Gen. Intel® Core™ i9 processor",
+            "gpu": "Up to latest GeForce RTX™ 3080 Laptop GPU 8GB GDDR6",
+            "ds": "17.3 QHD(2560x1440), 240Hz Refresh Rate, 100% DCI-P3 (Typical), IPS-Level panel(Optional)",
+            "rs": "17.3 FHD(1920x1080), 360Hz Refresh Rate, IPS-Level panel(Optional)",
+            "str": "More Storage. More Memory. More Expansion",
+            "os": "Windows 11 Pro"
+         },
+         "img": "./img/sanpham/msi/8.png",
+         "img1": "./img/sanpham/msi/8-1.png",
+         "img2": "./img/sanpham/msi/8-2.png",
+         "img3": "./img/sanpham/msi/8-3.png",
+         "img4": "./img/sanpham/msi/8-4.png"
       },
-      "img": "./img/sanpham/msi/7.png",
-      "img1": "./img/sanpham/msi/7-1.png",
-      "img2": "./img/sanpham/msi/7-2.png",
-      "img3": "./img/sanpham/msi/7-3.png",
-      "img4": "./img/sanpham/msi/7-4.png"
-    },
-    {
-      "id": 0.39860556289274407,
-      "name": "Vector GP78 HX 13V",
-      "lastprice": 2399,
-      "saleprice": 0,
-      "info": {
-        "cpu": "Up to latest 12th Gen. Intel® Core™ i9 processor",
-        "gpu": "Up to latest GeForce RTX™ 3080 Laptop GPU 8GB GDDR6",
-        "ds": "17.3 QHD(2560x1440), 240Hz Refresh Rate, 100% DCI-P3 (Typical), IPS-Level panel(Optional)",
-        "rs": "17.3 FHD(1920x1080), 360Hz Refresh Rate, IPS-Level panel(Optional)",
-        "str": "More Storage. More Memory. More Expansion",
-        "os": "Windows 11 Pro"
+      {
+         "id": 0.3013315278087778,
+         "name": "Pulse 15 B13V",
+         "lastprice": 1769,
+         "saleprice": 0,
+         "info": {
+            "cpu": "Up to Intel® Core™ i7-13700H processor",
+            "gpu": "Up to latest GeForce RTX™ 4070 Laptop GPU 8GB GDDR6",
+            "ds": "15.6 QHD (2560x1440), 240Hz Refresh Rate, 100% DCI-P3 (Typical) (Optional)",
+            "rs": "15.6 Full HD (1920x1080), 360 Hz Refresh Rate, IPS-Level panel (Optional)",
+            "str": "More Storage. More Memory. More Expansion",
+            "os": "Windows 11 Pro"
+         },
+         "img": "./img/sanpham/msi/9.png",
+         "img1": "./img/sanpham/msi/9-1.png",
+         "img2": "./img/sanpham/msi/9-2.png",
+         "img3": "./img/sanpham/msi/9-3.png",
+         "img4": "./img/sanpham/msi/9-4.png"
+      }
+   ],
+   "gigabyte": [
+      {
+         "id": 0.30217401983873615,
+         "name": "G6 (2023)",
+         "lastprice": 1099,
+         "saleprice": 20,
+         "info": {
+            "cpu": "The G6 gaming laptop is equipped with the Intel® Core™ i7 / i5 processor",
+            "gpu": "NVIDIA® GeForce RTX™ 40 Series Laptop GPUs power the world’s fastest laptops for gamers and creators",
+            "ds": "Unknown",
+            "rs": "The 165Hz high refresh rate display",
+            "str": "More Storage. More Memory. More Expansion",
+            "os": "Windows 11 Pro"
+         },
+         "img": "./img/sanpham/gigabyte/0.png",
+         "img1": "./img/sanpham/gigabyte/0-1.png",
+         "img2": "./img/sanpham/gigabyte/0-2.png",
+         "img3": "./img/sanpham/gigabyte/0-3.png",
+         "img4": "./img/sanpham/gigabyte/0-4.png"
       },
-      "img": "./img/sanpham/msi/8.png",
-      "img1": "./img/sanpham/msi/8-1.png",
-      "img2": "./img/sanpham/msi/8-2.png",
-      "img3": "./img/sanpham/msi/8-3.png",
-      "img4": "./img/sanpham/msi/8-4.png"
-    },
-    {
-      "id": 0.3013315278087778,
-      "name": "Pulse 15 B13V",
-      "lastprice": 1769,
-      "saleprice": 0,
-      "info": {
-        "cpu": "Up to Intel® Core™ i7-13700H processor",
-        "gpu": "Up to latest GeForce RTX™ 4070 Laptop GPU 8GB GDDR6",
-        "ds": "15.6 QHD (2560x1440), 240Hz Refresh Rate, 100% DCI-P3 (Typical) (Optional)",
-        "rs": "15.6 Full HD (1920x1080), 360 Hz Refresh Rate, IPS-Level panel (Optional)",
-        "str": "More Storage. More Memory. More Expansion",
-        "os": "Windows 11 Pro"
+      {
+         "id": 0.7811650966854791,
+         "name": "A5 (AMD Ryzen™ 5000 Series)",
+         "lastprice": 1749,
+         "saleprice": 0,
+         "info": {
+            "cpu": "AMD Ryzen™ 5000 HX-Series Mobile Processors",
+            "gpu": "NVIDIA® GeForce RTX™ 30 Series Laptop GPUs",
+            "ds": "Unknown",
+            "rs": "15.6 Thin Bezel FHD IPS-Level 240Hz/144Hz display",
+            "str": "More Storage. More Memory. More Expansion",
+            "os": "Windows 11 Pro"
+         },
+         "img": "./img/sanpham/gigabyte/1.png",
+         "img1": "./img/sanpham/gigabyte/1-1.png",
+         "img2": "./img/sanpham/gigabyte/1-2.png",
+         "img3": "./img/sanpham/gigabyte/1-3.png",
+         "img4": "./img/sanpham/gigabyte/1-4.png"
       },
-      "img": "./img/sanpham/msi/9.png",
-      "img1": "./img/sanpham/msi/9-1.png",
-      "img2": "./img/sanpham/msi/9-2.png",
-      "img3": "./img/sanpham/msi/9-3.png",
-      "img4": "./img/sanpham/msi/9-4.png"
-    }
-  ],
-  "gigabyte": [
-    {
-      "id": 0.30217401983873615,
-      "name": "G6 (2023)",
-      "lastprice": 1099,
-      "saleprice": 20,
-      "info": {
-        "cpu": "The G6 gaming laptop is equipped with the Intel® Core™ i7 / i5 processor",
-        "gpu": "NVIDIA® GeForce RTX™ 40 Series Laptop GPUs power the world’s fastest laptops for gamers and creators",
-        "ds": "Unknown",
-        "rs": "The 165Hz high refresh rate display",
-        "str": "More Storage. More Memory. More Expansion",
-        "os": "Windows 11 Pro"
+      {
+         "id": 0.959065496521794,
+         "name": "AERO 16 OLED (2023)",
+         "lastprice": 2299,
+         "saleprice": 9,
+         "info": {
+            "cpu": "13th Gen Intel® Core™ i9/i7 Processor H-Series",
+            "gpu": "NVIDIA® GeForce RTX™ 40 Series Laptop GPUs",
+            "ds": "Unknown",
+            "rs": "The AERO 16 OLED creator laptop is equipped with a 4K+ OLED HDR bezel-less screen",
+            "str": "More Storage. More Memory. More Expansion",
+            "os": "Windows 11 Pro"
+         },
+         "img": "./img/sanpham/gigabyte/2.png",
+         "img1": "./img/sanpham/gigabyte/2-1.png",
+         "img2": "./img/sanpham/gigabyte/2-2.png",
+         "img3": "./img/sanpham/gigabyte/2-3.png",
+         "img4": "./img/sanpham/gigabyte/2-4.png"
       },
-      "img": "./img/sanpham/gigabyte/0.png",
-      "img1": "./img/sanpham/gigabyte/0-1.png",
-      "img2": "./img/sanpham/gigabyte/0-2.png",
-      "img3": "./img/sanpham/gigabyte/0-3.png",
-      "img4": "./img/sanpham/gigabyte/0-4.png"
-    },
-    {
-      "id": 0.7811650966854791,
-      "name": "A5 (AMD Ryzen™ 5000 Series)",
-      "lastprice": 1749,
-      "saleprice": 0,
-      "info": {
-        "cpu": "AMD Ryzen™ 5000 HX-Series Mobile Processors",
-        "gpu": "NVIDIA® GeForce RTX™ 30 Series Laptop GPUs",
-        "ds": "Unknown",
-        "rs": "15.6 Thin Bezel FHD IPS-Level 240Hz/144Hz display",
-        "str": "More Storage. More Memory. More Expansion",
-        "os": "Windows 11 Pro"
+      {
+         "id": 0.7310994310945729,
+         "name": "AERO 17 HDR (RTX 30 Series)",
+         "lastprice": 2999,
+         "saleprice": 0,
+         "info": {
+            "cpu": "10th Gen Intel® Core™ i9 / i7 Processor H-Series",
+            "gpu": "NVIDIA® GeForce RTX™ 30 Series Laptop GPUs",
+            "ds": "AERO 17 HDR Creator Laptop: The 17” 4K HDR thin bezel not only looks good, but is suitable for media editing such as video post-production",
+            "rs": "4K HDR Display with ADOBE RGB 100% Color Gamut",
+            "str": "More Storage. More Memory. More Expansion",
+            "os": "Windows 11 Pro"
+         },
+         "img": "./img/sanpham/gigabyte/3.png",
+         "img1": "./img/sanpham/gigabyte/3-1.png",
+         "img2": "./img/sanpham/gigabyte/3-2.png",
+         "img3": "./img/sanpham/gigabyte/3-3.png",
+         "img4": "./img/sanpham/gigabyte/3-4.png"
       },
-      "img": "./img/sanpham/gigabyte/1.png",
-      "img1": "./img/sanpham/gigabyte/1-1.png",
-      "img2": "./img/sanpham/gigabyte/1-2.png",
-      "img3": "./img/sanpham/gigabyte/1-3.png",
-      "img4": "./img/sanpham/gigabyte/1-4.png"
-    },
-    {
-      "id": 0.959065496521794,
-      "name": "AERO 16 OLED (2023)",
-      "lastprice": 2299,
-      "saleprice": 9,
-      "info": {
-        "cpu": "13th Gen Intel® Core™ i9/i7 Processor H-Series",
-        "gpu": "NVIDIA® GeForce RTX™ 40 Series Laptop GPUs",
-        "ds": "Unknown",
-        "rs": "The AERO 16 OLED creator laptop is equipped with a 4K+ OLED HDR bezel-less screen",
-        "str": "More Storage. More Memory. More Expansion",
-        "os": "Windows 11 Pro"
+      {
+         "id": 0.04916969045416453,
+         "name": "AORUS 16 (2023)",
+         "lastprice": 1499,
+         "saleprice": 0,
+         "info": {
+            "cpu": "13th gen Intel® Core™ i7-13700H",
+            "gpu": "NVIDIA® GeForce RTX™ 4070 laptop GPU",
+            "ds": "Unknown",
+            "rs": "New 16 Horizons",
+            "str": "More Storage. More Memory. More Expansion",
+            "os": "Windows 11 Pro"
+         },
+         "img": "./img/sanpham/gigabyte/4.png",
+         "img1": "./img/sanpham/gigabyte/4-1.png",
+         "img2": "./img/sanpham/gigabyte/4-2.png",
+         "img3": "./img/sanpham/gigabyte/4-3.png",
+         "img4": "./img/sanpham/gigabyte/4-4.png"
       },
-      "img": "./img/sanpham/gigabyte/2.png",
-      "img1": "./img/sanpham/gigabyte/2-1.png",
-      "img2": "./img/sanpham/gigabyte/2-2.png",
-      "img3": "./img/sanpham/gigabyte/2-3.png",
-      "img4": "./img/sanpham/gigabyte/2-4.png"
-    },
-    {
-      "id": 0.7310994310945729,
-      "name": "AERO 17 HDR (RTX 30 Series)",
-      "lastprice": 2999,
-      "saleprice": 0,
-      "info": {
-        "cpu": "10th Gen Intel® Core™ i9 / i7 Processor H-Series",
-        "gpu": "NVIDIA® GeForce RTX™ 30 Series Laptop GPUs",
-        "ds": "AERO 17 HDR Creator Laptop: The 17” 4K HDR thin bezel not only looks good, but is suitable for media editing such as video post-production",
-        "rs": "4K HDR Display with ADOBE RGB 100% Color Gamut",
-        "str": "More Storage. More Memory. More Expansion",
-        "os": "Windows 11 Pro"
+      {
+         "id": 0.29317104662582727,
+         "name": "AORUS 7 (2023)",
+         "lastprice": 1149,
+         "saleprice": 0,
+         "info": {
+            "cpu": "12th Gen Intel® Core™ i5 H-Series Processor",
+            "gpu": "NVIDIA® GeForce RTX™ 40 Series Laptop GPUs, powered by NVIDIA DLSS 3, ultra-efficient Ada Lovelace arch, and Max-Q Technologies.",
+            "ds": "Unknown",
+            "rs": "Up to 17.3 16:9 FHD(1920 x 1080) 360Hz Panel",
+            "str": "More Storage. More Memory. More Expansion",
+            "os": "Windows 11 Pro"
+         },
+         "img": "./img/sanpham/gigabyte/5.png",
+         "img1": "./img/sanpham/gigabyte/5-1.png",
+         "img2": "./img/sanpham/gigabyte/5-2.png",
+         "img3": "./img/sanpham/gigabyte/5-3.png",
+         "img4": "./img/sanpham/gigabyte/5-4.png"
       },
-      "img": "./img/sanpham/gigabyte/3.png",
-      "img1": "./img/sanpham/gigabyte/3-1.png",
-      "img2": "./img/sanpham/gigabyte/3-2.png",
-      "img3": "./img/sanpham/gigabyte/3-3.png",
-      "img4": "./img/sanpham/gigabyte/3-4.png"
-    },
-    {
-      "id": 0.04916969045416453,
-      "name": "AORUS 16 (2023)",
-      "lastprice": 1499,
-      "saleprice": 0,
-      "info": {
-        "cpu": "13th gen Intel® Core™ i7-13700H",
-        "gpu": "NVIDIA® GeForce RTX™ 4070 laptop GPU",
-        "ds": "Unknown",
-        "rs": "New 16 Horizons",
-        "str": "More Storage. More Memory. More Expansion",
-        "os": "Windows 11 Pro"
+      {
+         "id": 0.5739391844084383,
+         "name": "AORUS 17X (2023)",
+         "lastprice": 2699,
+         "saleprice": 7,
+         "info": {
+            "cpu": "Up to 13th Gen Intel® Core™ i9 HX-Series 24 Cores Processor",
+            "gpu": "NVIDIA® GeForce RTX™ 40 Series Laptop GPUs, powered by NVIDIA DLSS 3",
+            "ds": "Unknown",
+            "rs": "Up to 17.3 16:9 QHD(2560 x 1440) 240Hz Panel",
+            "str": "Supports DDR5-5600 Memory",
+            "os": "Windows 11 Pro"
+         },
+         "img": "./img/sanpham/gigabyte/6.png",
+         "img1": "./img/sanpham/gigabyte/6-1.png",
+         "img2": "./img/sanpham/gigabyte/6-2.png",
+         "img3": "./img/sanpham/gigabyte/6-3.png",
+         "img4": "./img/sanpham/gigabyte/6-4.png"
+      }
+   ],
+   "acer": [
+      {
+         "id": 0.9510929782888184,
+         "name": "Nitro 16 Gaming Laptop - AN16-41-R6HK",
+         "lastprice": 1199.99,
+         "saleprice": 33,
+         "info": {
+            "cpu": "AMD Ryzen 5 7535HS Hexa-Core Processor (Up to 4.55GHz)",
+            "gpu": "NVIDIA® GeForce RTX 4050 Laptop GPU",
+            "ds": "Unknown",
+            "rs": "16.0 WUXGA (1920 x 1200) IPS display with NVIDIA G-SYNC™ & NVIDIA Advanced Optimus",
+            "str": "512GB solid state drive",
+            "os": "Windows 11 Home"
+         },
+         "img": "./img/sanpham/acer/0.png",
+         "img1": "./img/sanpham/acer/0-1.png",
+         "img2": "./img/sanpham/acer/0-2.png",
+         "img3": "./img/sanpham/acer/0-3.png",
+         "img4": "./img/sanpham/acer/0-4.png"
       },
-      "img": "./img/sanpham/gigabyte/4.png",
-      "img1": "./img/sanpham/gigabyte/4-1.png",
-      "img2": "./img/sanpham/gigabyte/4-2.png",
-      "img3": "./img/sanpham/gigabyte/4-3.png",
-      "img4": "./img/sanpham/gigabyte/4-4.png"
-    },
-    {
-      "id": 0.29317104662582727,
-      "name": "AORUS 7 (2023)",
-      "lastprice": 1149,
-      "saleprice": 0,
-      "info": {
-        "cpu": "12th Gen Intel® Core™ i5 H-Series Processor",
-        "gpu": "NVIDIA® GeForce RTX™ 40 Series Laptop GPUs, powered by NVIDIA DLSS 3, ultra-efficient Ada Lovelace arch, and Max-Q Technologies.",
-        "ds": "Unknown",
-        "rs": "Up to 17.3 16:9 FHD(1920 x 1080) 360Hz Panel",
-        "str": "More Storage. More Memory. More Expansion",
-        "os": "Windows 11 Pro"
+      {
+         "id": 0.34987881408393284,
+         "name": "Nitro 5 Gaming Laptop - AN515-58-552Y",
+         "lastprice": 999.99,
+         "saleprice": 0,
+         "info": {
+            "cpu": "Intel® Core™ i5-12450H processor Octa-core 3.30 GHz",
+            "gpu": "NVIDIA® GeForce RTX™ 4050 with 6 GB dedicated memory",
+            "ds": "Unknown",
+            "rs": "15.6 Full HD (1920 x 1080) 16:9 144 Hz",
+            "str": "512 GB SSD",
+            "os": "Windows 11 Home"
+         },
+         "img": "./img/sanpham/acer/1.png",
+         "img1": "./img/sanpham/acer/1-1.png",
+         "img2": "./img/sanpham/acer/1-2.png",
+         "img3": "./img/sanpham/acer/1-3.png",
+         "img4": "./img/sanpham/acer/1-4.png"
       },
-      "img": "./img/sanpham/gigabyte/5.png",
-      "img1": "./img/sanpham/gigabyte/5-1.png",
-      "img2": "./img/sanpham/gigabyte/5-2.png",
-      "img3": "./img/sanpham/gigabyte/5-3.png",
-      "img4": "./img/sanpham/gigabyte/5-4.png"
-    },
-    {
-      "id": 0.5739391844084383,
-      "name": "AORUS 17X (2023)",
-      "lastprice": 2699,
-      "saleprice": 7,
-      "info": {
-        "cpu": "Up to 13th Gen Intel® Core™ i9 HX-Series 24 Cores Processor",
-        "gpu": "NVIDIA® GeForce RTX™ 40 Series Laptop GPUs, powered by NVIDIA DLSS 3",
-        "ds": "Unknown",
-        "rs": "Up to 17.3 16:9 QHD(2560 x 1440) 240Hz Panel",
-        "str": "Supports DDR5-5600 Memory",
-        "os": "Windows 11 Pro"
+      {
+         "id": 0.5109744258881013,
+         "name": "Nitro 5 Gaming Laptop - AN517-42-R5KZ",
+         "lastprice": 1799.99,
+         "saleprice": 44,
+         "info": {
+            "cpu": "AMD Ryzen™ 7 6800H processor Octa-core 3.20 GHz",
+            "gpu": "NVIDIA® GeForce RTX™ 3070 with 8 GB dedicated memory",
+            "ds": "Unknown",
+            "rs": "17.3 QHD (2560 x 1440) 16:9 165 Hz",
+            "str": "1 TB SSD",
+            "os": "Windows 11 Home"
+         },
+         "img": "./img/sanpham/acer/2.png",
+         "img1": "./img/sanpham/acer/2-1.png",
+         "img2": "./img/sanpham/acer/2-2.png",
+         "img3": "./img/sanpham/acer/2-3.png",
+         "img4": "./img/sanpham/acer/2-4.png"
       },
-      "img": "./img/sanpham/gigabyte/6.png",
-      "img1": "./img/sanpham/gigabyte/6-1.png",
-      "img2": "./img/sanpham/gigabyte/6-2.png",
-      "img3": "./img/sanpham/gigabyte/6-3.png",
-      "img4": "./img/sanpham/gigabyte/6-4.png"
-    }
-  ],
-  "acer": [
-    {
-      "id": 0.9510929782888184,
-      "name": "Nitro 16 Gaming Laptop - AN16-41-R6HK",
-      "lastprice": 1199.99,
-      "saleprice": 33,
-      "info": {
-        "cpu": "AMD Ryzen 5 7535HS Hexa-Core Processor (Up to 4.55GHz)",
-        "gpu": "NVIDIA® GeForce RTX 4050 Laptop GPU",
-        "ds": "Unknown",
-        "rs": "16.0 WUXGA (1920 x 1200) IPS display with NVIDIA G-SYNC™ & NVIDIA Advanced Optimus",
-        "str": "512GB solid state drive",
-        "os": "Windows 11 Home"
+      {
+         "id": 0.31089408173327016,
+         "name": "Predator Helios 16",
+         "lastprice": 1649.99,
+         "saleprice": 0,
+         "info": {
+            "cpu": "Intel® Core™ i7-13700HX processor Hexadeca-core 2.10 GHz",
+            "gpu": "NVIDIA® GeForce RTX™ 4060 with 8 GB dedicated memory",
+            "ds": "Unknown",
+            "rs": "16 WQXGA (2560 x 1600) 16:10 165 Hz",
+            "str": "1 TB SSD",
+            "os": "Windows 11 Home"
+         },
+         "img": "./img/sanpham/acer/3.png",
+         "img1": "./img/sanpham/acer/3-1.png",
+         "img2": "./img/sanpham/acer/3-2.png",
+         "img3": "./img/sanpham/acer/3-3.png",
+         "img4": "./img/sanpham/acer/3-4.png"
       },
-      "img": "./img/sanpham/acer/0.png",
-      "img1": "./img/sanpham/acer/0-1.png",
-      "img2": "./img/sanpham/acer/0-2.png",
-      "img3": "./img/sanpham/acer/0-3.png",
-      "img4": "./img/sanpham/acer/0-4.png"
-    },
-    {
-      "id": 0.34987881408393284,
-      "name": "Nitro 5 Gaming Laptop - AN515-58-552Y",
-      "lastprice": 999.99,
-      "saleprice": 0,
-      "info": {
-        "cpu": "Intel® Core™ i5-12450H processor Octa-core 3.30 GHz",
-        "gpu": "NVIDIA® GeForce RTX™ 4050 with 6 GB dedicated memory",
-        "ds": "Unknown",
-        "rs": "15.6 Full HD (1920 x 1080) 16:9 144 Hz",
-        "str": "512 GB SSD",
-        "os": "Windows 11 Home"
+      {
+         "id": 0.16681073975181016,
+         "name": "Predator Helios 18",
+         "lastprice": 1649.99,
+         "saleprice": 0,
+         "info": {
+            "cpu": "Intel® Core™ i7-13700HX processor Hexadeca-core 2.10 GHz",
+            "gpu": "NVIDIA® GeForce RTX™ 4060 with 8 GB dedicated memory",
+            "ds": "Unknown",
+            "rs": "18 WUXGA (1920 x 1200) 16:10 165 Hz",
+            "str": "1 TB SSD",
+            "os": "Windows 11 Home"
+         },
+         "img": "./img/sanpham/acer/4.png",
+         "img1": "./img/sanpham/acer/4-1.png",
+         "img2": "./img/sanpham/acer/4-2.png",
+         "img3": "./img/sanpham/acer/4-3.png",
+         "img4": "./img/sanpham/acer/4-4.png"
       },
-      "img": "./img/sanpham/acer/1.png",
-      "img1": "./img/sanpham/acer/1-1.png",
-      "img2": "./img/sanpham/acer/1-2.png",
-      "img3": "./img/sanpham/acer/1-3.png",
-      "img4": "./img/sanpham/acer/1-4.png"
-    },
-    {
-      "id": 0.5109744258881013,
-      "name": "Nitro 5 Gaming Laptop - AN517-42-R5KZ",
-      "lastprice": 1799.99,
-      "saleprice": 44,
-      "info": {
-        "cpu": "AMD Ryzen™ 7 6800H processor Octa-core 3.20 GHz",
-        "gpu": "NVIDIA® GeForce RTX™ 3070 with 8 GB dedicated memory",
-        "ds": "Unknown",
-        "rs": "17.3 QHD (2560 x 1440) 16:9 165 Hz",
-        "str": "1 TB SSD",
-        "os": "Windows 11 Home"
+      {
+         "id": 0.07335739950466236,
+         "name": "Predator Helios 18",
+         "lastprice": 1749.99,
+         "saleprice": 0,
+         "info": {
+            "cpu": "Intel® Core™ i7-12700H processor Tetradeca-core 2.30 GHz",
+            "gpu": "NVIDIA® GeForce RTX™ 3060 with 6 GB dedicated memory",
+            "ds": "Unknown",
+            "rs": "17.3 Full HD (1920 x 1080) 16:9 144 Hz",
+            "str": "512 GB SSD",
+            "os": "Windows 11 Home"
+         },
+         "img": "./img/sanpham/acer/5.png",
+         "img1": "./img/sanpham/acer/5-1.png",
+         "img2": "./img/sanpham/acer/5-2.png",
+         "img3": "./img/sanpham/acer/5-3.png",
+         "img4": "./img/sanpham/acer/5-4.png"
       },
-      "img": "./img/sanpham/acer/2.png",
-      "img1": "./img/sanpham/acer/2-1.png",
-      "img2": "./img/sanpham/acer/2-2.png",
-      "img3": "./img/sanpham/acer/2-3.png",
-      "img4": "./img/sanpham/acer/2-4.png"
-    },
-    {
-      "id": 0.31089408173327016,
-      "name": "Predator Helios 16",
-      "lastprice": 1649.99,
-      "saleprice": 0,
-      "info": {
-        "cpu": "Intel® Core™ i7-13700HX processor Hexadeca-core 2.10 GHz",
-        "gpu": "NVIDIA® GeForce RTX™ 4060 with 8 GB dedicated memory",
-        "ds": "Unknown",
-        "rs": "16 WQXGA (2560 x 1600) 16:10 165 Hz",
-        "str": "1 TB SSD",
-        "os": "Windows 11 Home"
+      {
+         "id": 0.5983980452930833,
+         "name": "Predator Triton 300 SE",
+         "lastprice": 1599.99,
+         "saleprice": 0,
+         "info": {
+            "cpu": "Intel® Core™ i7-12700H processor Tetradeca-core 2.30 GHz",
+            "gpu": "NVIDIA® GeForce RTX™ 3060 graphics",
+            "ds": "Unknown",
+            "rs": "14 WUXGA (1920 x 1200) IPS display",
+            "str": "512 GB solid state drive",
+            "os": "Windows 11 Home"
+         },
+         "img": "./img/sanpham/acer/6.png",
+         "img1": "./img/sanpham/acer/6-1.png",
+         "img2": "./img/sanpham/acer/6-2.png",
+         "img3": "./img/sanpham/acer/6-3.png",
+         "img4": "./img/sanpham/acer/6-4.png"
       },
-      "img": "./img/sanpham/acer/3.png",
-      "img1": "./img/sanpham/acer/3-1.png",
-      "img2": "./img/sanpham/acer/3-2.png",
-      "img3": "./img/sanpham/acer/3-3.png",
-      "img4": "./img/sanpham/acer/3-4.png"
-    },
-    {
-      "id": 0.16681073975181016,
-      "name": "Predator Helios 18",
-      "lastprice": 1649.99,
-      "saleprice": 0,
-      "info": {
-        "cpu": "Intel® Core™ i7-13700HX processor Hexadeca-core 2.10 GHz",
-        "gpu": "NVIDIA® GeForce RTX™ 4060 with 8 GB dedicated memory",
-        "ds": "Unknown",
-        "rs": "18 WUXGA (1920 x 1200) 16:10 165 Hz",
-        "str": "1 TB SSD",
-        "os": "Windows 11 Home"
+      {
+         "id": 0.07825715839860892,
+         "name": "Predator Triton 500 SE",
+         "lastprice": 2399.99,
+         "saleprice": 0,
+         "info": {
+            "cpu": "Intel® Core™ i7-11800H processor Octa-core 2.40 GHz",
+            "gpu": "NVIDIA® GeForce RTX™ 3080 with 8 GB dedicated memory",
+            "ds": "Unknown",
+            "rs": "16 WQXGA (2560 x 1600) 16:10 165 Hz",
+            "str": "1 TB SSD",
+            "os": "Windows 11 Home"
+         },
+         "img": "./img/sanpham/acer/7.png",
+         "img1": "./img/sanpham/acer/7-1.png",
+         "img2": "./img/sanpham/acer/7-2.png",
+         "img3": "./img/sanpham/acer/7-3.png",
+         "img4": "./img/sanpham/acer/7-4.png"
       },
-      "img": "./img/sanpham/acer/4.png",
-      "img1": "./img/sanpham/acer/4-1.png",
-      "img2": "./img/sanpham/acer/4-2.png",
-      "img3": "./img/sanpham/acer/4-3.png",
-      "img4": "./img/sanpham/acer/4-4.png"
-    },
-    {
-      "id": 0.07335739950466236,
-      "name": "Predator Helios 18",
-      "lastprice": 1749.99,
-      "saleprice": 0,
-      "info": {
-        "cpu": "Intel® Core™ i7-12700H processor Tetradeca-core 2.30 GHz",
-        "gpu": "NVIDIA® GeForce RTX™ 3060 with 6 GB dedicated memory",
-        "ds": "Unknown",
-        "rs": "17.3 Full HD (1920 x 1080) 16:9 144 Hz",
-        "str": "512 GB SSD",
-        "os": "Windows 11 Home"
+      {
+         "id": 0.42548309351700997,
+         "name": "ConceptD 3 Laptop",
+         "lastprice": 999.99,
+         "saleprice": 0,
+         "info": {
+            "cpu": "Intel® Core™ i5-10300H processor Quad-core 2.50 GHz",
+            "gpu": "Intel® UHD Graphics shared memory",
+            "ds": "Unknown",
+            "rs": "14 Full HD (1920 x 1080) 16:9",
+            "str": "256 GB SSD",
+            "os": "Windows 10 Home"
+         },
+         "img": "./img/sanpham/acer/8.png",
+         "img1": "./img/sanpham/acer/8-1.png",
+         "img2": "./img/sanpham/acer/8-2.png",
+         "img3": "./img/sanpham/acer/8-3.png",
+         "img4": "./img/sanpham/acer/8-4.png"
       },
-      "img": "./img/sanpham/acer/5.png",
-      "img1": "./img/sanpham/acer/5-1.png",
-      "img2": "./img/sanpham/acer/5-2.png",
-      "img3": "./img/sanpham/acer/5-3.png",
-      "img4": "./img/sanpham/acer/5-4.png"
-    },
-    {
-      "id": 0.5983980452930833,
-      "name": "Predator Triton 300 SE",
-      "lastprice": 1599.99,
-      "saleprice": 0,
-      "info": {
-        "cpu": "Intel® Core™ i7-12700H processor Tetradeca-core 2.30 GHz",
-        "gpu": "NVIDIA® GeForce RTX™ 3060 graphics",
-        "ds": "Unknown",
-        "rs": "14 WUXGA (1920 x 1200) IPS display",
-        "str": "512 GB solid state drive",
-        "os": "Windows 11 Home"
+      {
+         "id": 0.9750319130240652,
+         "name": "Aspire 1 Laptop",
+         "lastprice": 299.99,
+         "saleprice": 40,
+         "info": {
+            "cpu": "Intel® Celeron® N4500 processor Dual-core 1.10 GHz",
+            "gpu": "Intel® UHD Graphics shared memory",
+            "ds": "Unknown",
+            "rs": "15.6 Full HD (1920 x 1080) 16:9",
+            "str": "64 GB Flash Memory",
+            "os": "Windows 11 Home in S Mode"
+         },
+         "img": "./img/sanpham/acer/9.png",
+         "img1": "./img/sanpham/acer/9-1.png",
+         "img2": "./img/sanpham/acer/9-2.png",
+         "img3": "./img/sanpham/acer/9-3.png",
+         "img4": "./img/sanpham/acer/9-4.png"
       },
-      "img": "./img/sanpham/acer/6.png",
-      "img1": "./img/sanpham/acer/6-1.png",
-      "img2": "./img/sanpham/acer/6-2.png",
-      "img3": "./img/sanpham/acer/6-3.png",
-      "img4": "./img/sanpham/acer/6-4.png"
-    },
-    {
-      "id": 0.07825715839860892,
-      "name": "Predator Triton 500 SE",
-      "lastprice": 2399.99,
-      "saleprice": 0,
-      "info": {
-        "cpu": "Intel® Core™ i7-11800H processor Octa-core 2.40 GHz",
-        "gpu": "NVIDIA® GeForce RTX™ 3080 with 8 GB dedicated memory",
-        "ds": "Unknown",
-        "rs": "16 WQXGA (2560 x 1600) 16:10 165 Hz",
-        "str": "1 TB SSD",
-        "os": "Windows 11 Home"
+      {
+         "id": 0.38201903772359214,
+         "name": "Swift X Laptop - SFX16-52G-73U6",
+         "lastprice": 1249.99,
+         "saleprice": 36,
+         "info": {
+            "cpu": "Intel® Core™ i7-1260P processor Dodeca-core 2.10 GHz",
+            "gpu": "Intel® Arc A370M with 4 GB dedicated memory",
+            "ds": "Unknown",
+            "rs": "16 WUXGA (1920 x 1200) 16:10",
+            "str": "512 GB SSD",
+            "os": "Windows 11 Home in S Mode"
+         },
+         "img": "./img/sanpham/acer/10.png",
+         "img1": "./img/sanpham/acer/10-1.png",
+         "img2": "./img/sanpham/acer/10-2.png",
+         "img3": "./img/sanpham/acer/10-3.png",
+         "img4": "./img/sanpham/acer/10-4.png"
+      }
+   ],
+   "ios": [
+      {
+         "id": 0.40896486532057863,
+         "name": "MacBook Air M1",
+         "lastprice": 1178,
+         "saleprice": 21,
+         "info": {
+            "cpu": "System on Chip (SoC) Apple M1 chip",
+            "gpu": "Up to Apple 8-core GPU",
+            "ds": "Unknown",
+            "rs": "13.3-inch (diagonal) LED-backlit display with IPS technology; 2560-by-1600 native resolution at 227 pixels per inch with support for millions of colors",
+            "str": "256GB to 2TB storage20",
+            "os": "IOS"
+         },
+         "img": "./img/sanpham/ios/0.png",
+         "img1": "./img/sanpham/ios/0-1.png",
+         "img2": "./img/sanpham/ios/0-2.png",
+         "img3": "./img/sanpham/ios/0-3.png",
+         "img4": "./img/sanpham/ios/0-4.png"
       },
-      "img": "./img/sanpham/acer/7.png",
-      "img1": "./img/sanpham/acer/7-1.png",
-      "img2": "./img/sanpham/acer/7-2.png",
-      "img3": "./img/sanpham/acer/7-3.png",
-      "img4": "./img/sanpham/acer/7-4.png"
-    },
-    {
-      "id": 0.42548309351700997,
-      "name": "ConceptD 3 Laptop",
-      "lastprice": 999.99,
-      "saleprice": 0,
-      "info": {
-        "cpu": "Intel® Core™ i5-10300H processor Quad-core 2.50 GHz",
-        "gpu": "Intel® UHD Graphics shared memory",
-        "ds": "Unknown",
-        "rs": "14 Full HD (1920 x 1080) 16:9",
-        "str": "256 GB SSD",
-        "os": "Windows 10 Home"
+      {
+         "id": 0.34605208873982485,
+         "name": "MacBook Air M2",
+         "lastprice": 1272.5,
+         "saleprice": 0,
+         "info": {
+            "cpu": "System on Chip (SoC), Apple M2 chip",
+            "gpu": "Apple 10-core GPU",
+            "ds": "Unknown",
+            "rs": "15.3-inch (diagonal) LED-backlit display with IPS technology; 2880-by-1864 native resolution at 224 pixels per inch with support for 1 billion colors, 500 nits brightness, Wide color (P3), True Tone technology",
+            "str": "256GB to 2TB storage20",
+            "os": "macOS"
+         },
+         "img": "./img/sanpham/ios/1.png",
+         "img1": "./img/sanpham/ios/1-1.png",
+         "img2": "./img/sanpham/ios/1-2.png",
+         "img3": "./img/sanpham/ios/1-3.png",
+         "img4": "./img/sanpham/ios/1-4.png"
       },
-      "img": "./img/sanpham/acer/8.png",
-      "img1": "./img/sanpham/acer/8-1.png",
-      "img2": "./img/sanpham/acer/8-2.png",
-      "img3": "./img/sanpham/acer/8-3.png",
-      "img4": "./img/sanpham/acer/8-4.png"
-    },
-    {
-      "id": 0.9750319130240652,
-      "name": "Aspire 1 Laptop",
-      "lastprice": 299.99,
-      "saleprice": 40,
-      "info": {
-        "cpu": "Intel® Celeron® N4500 processor Dual-core 1.10 GHz",
-        "gpu": "Intel® UHD Graphics shared memory",
-        "ds": "Unknown",
-        "rs": "15.6 Full HD (1920 x 1080) 16:9",
-        "str": "64 GB Flash Memory",
-        "os": "Windows 11 Home in S Mode"
+      {
+         "id": 0.09321596099867002,
+         "name": "MacBook Pro M2",
+         "lastprice": 2434.99,
+         "saleprice": 0,
+         "info": {
+            "cpu": "System on Chip (SoC), Apple M2 Pro or M2 Max chip, Up to 12-core CPU with 8 performance cores and 4 efficiency cores",
+            "gpu": "Apple 16-core GPU or Apple 19-core GPU or Apple 30-core GPU",
+            "ds": "Unknown",
+            "rs": "System on Chip (SoC), Apple M2 Pro or M2 Max chip, Up to 12-core CPU with 8 performance cores and 4 efficiency cores",
+            "str": "256GB to 2TB storage20",
+            "os": "macOS"
+         },
+         "img": "./img/sanpham/ios/2.png",
+         "img1": "./img/sanpham/ios/2-1.png",
+         "img2": "./img/sanpham/ios/2-2.png",
+         "img3": "./img/sanpham/ios/2-3.png",
+         "img4": "./img/sanpham/ios/2-4.png"
       },
-      "img": "./img/sanpham/acer/9.png",
-      "img1": "./img/sanpham/acer/9-1.png",
-      "img2": "./img/sanpham/acer/9-2.png",
-      "img3": "./img/sanpham/acer/9-3.png",
-      "img4": "./img/sanpham/acer/9-4.png"
-    },
-    {
-      "id": 0.38201903772359214,
-      "name": "Swift X Laptop - SFX16-52G-73U6",
-      "lastprice": 1249.99,
-      "saleprice": 36,
-      "info": {
-        "cpu": "Intel® Core™ i7-1260P processor Dodeca-core 2.10 GHz",
-        "gpu": "Intel® Arc A370M with 4 GB dedicated memory",
-        "ds": "Unknown",
-        "rs": "16 WUXGA (1920 x 1200) 16:10",
-        "str": "512 GB SSD",
-        "os": "Windows 11 Home in S Mode"
+      {
+         "id": 0.9196534921167085,
+         "name": "MacBook Pro",
+         "lastprice": 5299,
+         "saleprice": 0,
+         "info": {
+            "cpu": "M2 Max Chip with 12-Core CPU",
+            "gpu": "M2 Max Chip with 38-Core GPU",
+            "ds": "Unknown",
+            "rs": "Apple MacBook Pro 16.2 with Liquid Retina XDR Display",
+            "str": "256GB to 2TB storage20",
+            "os": "macOS 10.14 Mojave"
+         },
+         "img": "./img/sanpham/ios/3.png",
+         "img1": "./img/sanpham/ios/3-1.png",
+         "img2": "./img/sanpham/ios/3-2.png",
+         "img3": "./img/sanpham/ios/3-3.png",
+         "img4": "./img/sanpham/ios/3-4.png"
+      }
+   ],
+   "hp": [
+      {
+         "id": 0.756629853046271,
+         "name": "Victus by HP Gaming Laptop16t-r000, 16.1",
+         "lastprice": 1149.99,
+         "saleprice": 0,
+         "info": {
+            "cpu": "Intel® Core™ i5-13500H (up to 4.7 GHz, 18 MB L3 cache, 12 cores, 16 threads)",
+            "gpu": " NVIDIA® GeForce RTX™ 3050 Laptop GPU (6 GB)",
+            "ds": "Unknown",
+            "rs": "16.1 diagonal, FHD (1920 x 1080), 144 Hz, IPS, micro-edge, anti-glare, 250 nits",
+            "str": "512 GB PCIe® NVMe™ TLC M.2 SSD (4x4 SSD)",
+            "os": "Windows 11 Home"
+         },
+         "img": "./img/sanpham/hp/0.png",
+         "img1": "./img/sanpham/hp/0-1.png",
+         "img2": "./img/sanpham/hp/0-2.png",
+         "img3": "./img/sanpham/hp/0-3.png",
+         "img4": "./img/sanpham/hp/0-4.png"
       },
-      "img": "./img/sanpham/acer/10.png",
-      "img1": "./img/sanpham/acer/10-1.png",
-      "img2": "./img/sanpham/acer/10-2.png",
-      "img3": "./img/sanpham/acer/10-3.png",
-      "img4": "./img/sanpham/acer/10-4.png"
-    }
-  ],
-  "ios": [
-    {
-      "id": 0.40896486532057863,
-      "name": "MacBook Air M1",
-      "lastprice": 1178,
-      "saleprice": 21,
-      "info": {
-        "cpu": "System on Chip (SoC) Apple M1 chip",
-        "gpu": "Up to Apple 8-core GPU",
-        "ds": "Unknown",
-        "rs": "13.3-inch (diagonal) LED-backlit display with IPS technology; 2560-by-1600 native resolution at 227 pixels per inch with support for millions of colors",
-        "str": "256GB to 2TB storage20",
-        "os": "IOS"
+      {
+         "id": 0.9478330428122337,
+         "name": "OMEN Laptop",
+         "lastprice": 1299.99,
+         "saleprice": 0,
+         "info": {
+            "cpu": "Intel® Core™ i7-13700HX (up to 5.0 GHz, 30 MB L3 cache, 16 cores, 24 threads) ",
+            "gpu": "NVIDIA® GeForce RTX™ 4060 Laptop GPU (8 GB)",
+            "ds": "Unknown",
+            "rs": "17.3 diagonal, FHD (1920 x 1080), 144 Hz, 7 ms response time, IPS, micro-edge, anti-glare, Low Blue Light, 300 nits",
+            "str": "512 GB PCIe® NVMe™ TLC M.2 SSD (4x4 SSD)",
+            "os": "Windows 11 Home"
+         },
+         "img": "./img/sanpham/hp/1.png",
+         "img1": "./img/sanpham/hp/1-1.png",
+         "img2": "./img/sanpham/hp/1-2.png",
+         "img3": "./img/sanpham/hp/1-3.png",
+         "img4": "./img/sanpham/hp/1-4.png"
       },
-      "img": "./img/sanpham/ios/0.png",
-      "img1": "./img/sanpham/ios/0-1.png",
-      "img2": "./img/sanpham/ios/0-2.png",
-      "img3": "./img/sanpham/ios/0-3.png",
-      "img4": "./img/sanpham/ios/0-4.png"
-    },
-    {
-      "id": 0.34605208873982485,
-      "name": "MacBook Air M2",
-      "lastprice": 1272.5,
-      "saleprice": 0,
-      "info": {
-        "cpu": "System on Chip (SoC), Apple M2 chip",
-        "gpu": "Apple 10-core GPU",
-        "ds": "Unknown",
-        "rs": "15.3-inch (diagonal) LED-backlit display with IPS technology; 2880-by-1864 native resolution at 224 pixels per inch with support for 1 billion colors, 500 nits brightness, Wide color (P3), True Tone technology",
-        "str": "256GB to 2TB storage20",
-        "os": "macOS"
+      {
+         "id": 0.15730227312404765,
+         "name": "Victus by HP Gaming Laptop 15z-fb100, 15.6",
+         "lastprice": 699.99,
+         "saleprice": 0,
+         "info": {
+            "cpu": "AMD Ryzen™ 5 7535HS (up to 4.55 GHz, 16 MB L3 cache, 6 cores, 12 threads)",
+            "gpu": "NVIDIA® GeForce RTX™ 2050 Laptop GPU (4 GB)",
+            "ds": "Unknown",
+            "rs": "15.6 diagonal, FHD (1920 x 1080), IPS, micro-edge, anti-glare, 250 nits",
+            "str": "512 GB PCIe® NVMe™ TLC M.2 SSD (4x4 SSD)",
+            "os": "Windows 11 Home"
+         },
+         "img": "./img/sanpham/hp/2.png",
+         "img1": "./img/sanpham/hp/2-1.png",
+         "img2": "./img/sanpham/hp/2-2.png",
+         "img3": "./img/sanpham/hp/2-3.png",
+         "img4": "./img/sanpham/hp/2-4.png"
       },
-      "img": "./img/sanpham/ios/1.png",
-      "img1": "./img/sanpham/ios/1-1.png",
-      "img2": "./img/sanpham/ios/1-2.png",
-      "img3": "./img/sanpham/ios/1-3.png",
-      "img4": "./img/sanpham/ios/1-4.png"
-    },
-    {
-      "id": 0.09321596099867002,
-      "name": "MacBook Pro M2",
-      "lastprice": 2434.99,
-      "saleprice": 0,
-      "info": {
-        "cpu": "System on Chip (SoC), Apple M2 Pro or M2 Max chip, Up to 12-core CPU with 8 performance cores and 4 efficiency cores",
-        "gpu": "Apple 16-core GPU or Apple 19-core GPU or Apple 30-core GPU",
-        "ds": "Unknown",
-        "rs": "System on Chip (SoC), Apple M2 Pro or M2 Max chip, Up to 12-core CPU with 8 performance cores and 4 efficiency cores",
-        "str": "256GB to 2TB storage20",
-        "os": "macOS"
+      {
+         "id": 0.6242374503921329,
+         "name": "OMEN by HP Gaming Laptop 16t-wf000, 16.1",
+         "lastprice": 1149.99,
+         "saleprice": 0,
+         "info": {
+            "cpu": "Intel® Core™ i5-13500H (up to 4.7 GHz, 18 MB L3 cache, 12 cores, 16 threads) ",
+            "gpu": "NVIDIA® GeForce RTX™ 3050 Laptop GPU (6 GB)",
+            "ds": "Unknown",
+            "rs": "16.1 diagonal, FHD (1920 x 1080), 144 Hz, IPS, micro-edge, anti-glare, 250 nits",
+            "str": "512 GB PCIe® NVMe™ TLC M.2 SSD (4x4 SSD)",
+            "os": "Windows 11 Home"
+         },
+         "img": "./img/sanpham/hp/3.png",
+         "img1": "./img/sanpham/hp/3-1.png",
+         "img2": "./img/sanpham/hp/3-2.png",
+         "img3": "./img/sanpham/hp/3-3.png",
+         "img4": "./img/sanpham/hp/3-4.png"
       },
-      "img": "./img/sanpham/ios/2.png",
-      "img1": "./img/sanpham/ios/2-1.png",
-      "img2": "./img/sanpham/ios/2-2.png",
-      "img3": "./img/sanpham/ios/2-3.png",
-      "img4": "./img/sanpham/ios/2-4.png"
-    },
-    {
-      "id": 0.9196534921167085,
-      "name": "MacBook Pro",
-      "lastprice": 5299,
-      "saleprice": 0,
-      "info": {
-        "cpu": "M2 Max Chip with 12-Core CPU",
-        "gpu": "M2 Max Chip with 38-Core GPU",
-        "ds": "Unknown",
-        "rs": "Apple MacBook Pro 16.2 with Liquid Retina XDR Display",
-        "str": "256GB to 2TB storage20",
-        "os": "macOS 10.14 Mojave"
+      {
+         "id": 0.6447057810180146,
+         "name": "HP Envy Laptop 16-h1047nr",
+         "lastprice": 1149.99,
+         "saleprice": 0,
+         "info": {
+            "cpu": "13th Generation Intel® Core™ i7 processor",
+            "gpu": "Intel® Arc™ A370M Graphics (4 GB GDDR6 dedicated)",
+            "ds": "Unknown",
+            "rs": "16 diagonal, WQXGA (2560 x 1600), multitouch-enabled, 120 Hz, IPS, edge-to-edge glass, micro-edge, Low Blue Light, 400 nits, 100% sRGB[17,35]",
+            "str": "1 TB PCIe® Gen4 NVMe™ TLC M.2 SSD",
+            "os": "Windows 11 Home"
+         },
+         "img": "./img/sanpham/hp/4.png",
+         "img1": "./img/sanpham/hp/4-1.png",
+         "img2": "./img/sanpham/hp/4-2.png",
+         "img3": "./img/sanpham/hp/4-3.png",
+         "img4": "./img/sanpham/hp/4-4.png"
       },
-      "img": "./img/sanpham/ios/3.png",
-      "img1": "./img/sanpham/ios/3-1.png",
-      "img2": "./img/sanpham/ios/3-2.png",
-      "img3": "./img/sanpham/ios/3-3.png",
-      "img4": "./img/sanpham/ios/3-4.png"
-    }
-  ],
-  "hp": [
-    {
-      "id": 0.756629853046271,
-      "name": "Victus by HP Gaming Laptop16t-r000, 16.1",
-      "lastprice": 1149.99,
-      "saleprice": 0,
-      "info": {
-        "cpu": "Intel® Core™ i5-13500H (up to 4.7 GHz, 18 MB L3 cache, 12 cores, 16 threads)",
-        "gpu": " NVIDIA® GeForce RTX™ 3050 Laptop GPU (6 GB)",
-        "ds": "Unknown",
-        "rs": "16.1 diagonal, FHD (1920 x 1080), 144 Hz, IPS, micro-edge, anti-glare, 250 nits",
-        "str": "512 GB PCIe® NVMe™ TLC M.2 SSD (4x4 SSD)",
-        "os": "Windows 11 Home"
-      },
-      "img": "./img/sanpham/hp/0.png",
-      "img1": "./img/sanpham/hp/0-1.png",
-      "img2": "./img/sanpham/hp/0-2.png",
-      "img3": "./img/sanpham/hp/0-3.png",
-      "img4": "./img/sanpham/hp/0-4.png"
-    },
-    {
-      "id": 0.9478330428122337,
-      "name": "OMEN Laptop",
-      "lastprice": 1299.99,
-      "saleprice": 0,
-      "info": {
-        "cpu": "Intel® Core™ i7-13700HX (up to 5.0 GHz, 30 MB L3 cache, 16 cores, 24 threads) ",
-        "gpu": "NVIDIA® GeForce RTX™ 4060 Laptop GPU (8 GB)",
-        "ds": "Unknown",
-        "rs": "17.3 diagonal, FHD (1920 x 1080), 144 Hz, 7 ms response time, IPS, micro-edge, anti-glare, Low Blue Light, 300 nits",
-        "str": "512 GB PCIe® NVMe™ TLC M.2 SSD (4x4 SSD)",
-        "os": "Windows 11 Home"
-      },
-      "img": "./img/sanpham/hp/1.png",
-      "img1": "./img/sanpham/hp/1-1.png",
-      "img2": "./img/sanpham/hp/1-2.png",
-      "img3": "./img/sanpham/hp/1-3.png",
-      "img4": "./img/sanpham/hp/1-4.png"
-    },
-    {
-      "id": 0.15730227312404765,
-      "name": "Victus by HP Gaming Laptop 15z-fb100, 15.6",
-      "lastprice": 699.99,
-      "saleprice": 0,
-      "info": {
-        "cpu": "AMD Ryzen™ 5 7535HS (up to 4.55 GHz, 16 MB L3 cache, 6 cores, 12 threads)",
-        "gpu": "NVIDIA® GeForce RTX™ 2050 Laptop GPU (4 GB)",
-        "ds": "Unknown",
-        "rs": "15.6 diagonal, FHD (1920 x 1080), IPS, micro-edge, anti-glare, 250 nits",
-        "str": "512 GB PCIe® NVMe™ TLC M.2 SSD (4x4 SSD)",
-        "os": "Windows 11 Home"
-      },
-      "img": "./img/sanpham/hp/2.png",
-      "img1": "./img/sanpham/hp/2-1.png",
-      "img2": "./img/sanpham/hp/2-2.png",
-      "img3": "./img/sanpham/hp/2-3.png",
-      "img4": "./img/sanpham/hp/2-4.png"
-    },
-    {
-      "id": 0.6242374503921329,
-      "name": "OMEN by HP Gaming Laptop 16t-wf000, 16.1",
-      "lastprice": 1149.99,
-      "saleprice": 0,
-      "info": {
-        "cpu": "Intel® Core™ i5-13500H (up to 4.7 GHz, 18 MB L3 cache, 12 cores, 16 threads) ",
-        "gpu": "NVIDIA® GeForce RTX™ 3050 Laptop GPU (6 GB)",
-        "ds": "Unknown",
-        "rs": "16.1 diagonal, FHD (1920 x 1080), 144 Hz, IPS, micro-edge, anti-glare, 250 nits",
-        "str": "512 GB PCIe® NVMe™ TLC M.2 SSD (4x4 SSD)",
-        "os": "Windows 11 Home"
-      },
-      "img": "./img/sanpham/hp/3.png",
-      "img1": "./img/sanpham/hp/3-1.png",
-      "img2": "./img/sanpham/hp/3-2.png",
-      "img3": "./img/sanpham/hp/3-3.png",
-      "img4": "./img/sanpham/hp/3-4.png"
-    },
-    {
-      "id": 0.6447057810180146,
-      "name": "HP Envy Laptop 16-h1047nr",
-      "lastprice": 1149.99,
-      "saleprice": 0,
-      "info": {
-        "cpu": "13th Generation Intel® Core™ i7 processor",
-        "gpu": "Intel® Arc™ A370M Graphics (4 GB GDDR6 dedicated)",
-        "ds": "Unknown",
-        "rs": "16 diagonal, WQXGA (2560 x 1600), multitouch-enabled, 120 Hz, IPS, edge-to-edge glass, micro-edge, Low Blue Light, 400 nits, 100% sRGB[17,35]",
-        "str": "1 TB PCIe® Gen4 NVMe™ TLC M.2 SSD",
-        "os": "Windows 11 Home"
-      },
-      "img": "./img/sanpham/hp/4.png",
-      "img1": "./img/sanpham/hp/4-1.png",
-      "img2": "./img/sanpham/hp/4-2.png",
-      "img3": "./img/sanpham/hp/4-3.png",
-      "img4": "./img/sanpham/hp/4-4.png"
-    },
-    {
-      "id": 0.8493856059871954,
-      "name": "HP Pavilion x360",
-      "lastprice": 969.99,
-      "saleprice": 0,
-      "info": {
-        "cpu": "12th Generation Intel® Core™ i5 processor",
-        "gpu": "Intel® Iris® Xᵉ Graphics",
-        "ds": "Unknown",
-        "rs": "15.6 diagonal, FHD (1920 x 1080), multitouch-enabled, IPS, edge-to-edge glass, micro-edge, 250 nits, 45% NTSC",
-        "str": "256 GB PCIe® NVMe™ M.2 SSD",
-        "os": "Windows 11 Home"
-      },
-      "img": "./img/sanpham/hp/5.png",
-      "img1": "./img/sanpham/hp/5-1.png",
-      "img2": "./img/sanpham/hp/5-2.png",
-      "img3": "./img/sanpham/hp/5-3.png",
-      "img4": "./img/sanpham/hp/5-4.png"
-    }
-  ]
-}]} 
+      {
+         "id": 0.8493856059871954,
+         "name": "HP Pavilion x360",
+         "lastprice": 969.99,
+         "saleprice": 0,
+         "info": {
+            "cpu": "12th Generation Intel® Core™ i5 processor",
+            "gpu": "Intel® Iris® Xᵉ Graphics",
+            "ds": "Unknown",
+            "rs": "15.6 diagonal, FHD (1920 x 1080), multitouch-enabled, IPS, edge-to-edge glass, micro-edge, 250 nits, 45% NTSC",
+            "str": "256 GB PCIe® NVMe™ M.2 SSD",
+            "os": "Windows 11 Home"
+         },
+         "img": "./img/sanpham/hp/5.png",
+         "img1": "./img/sanpham/hp/5-1.png",
+         "img2": "./img/sanpham/hp/5-2.png",
+         "img3": "./img/sanpham/hp/5-3.png",
+         "img4": "./img/sanpham/hp/5-4.png"
+      }
+   ]
+}
