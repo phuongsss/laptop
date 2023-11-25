@@ -1,7 +1,7 @@
 {
    "asus": [
       {
-         "id": 0.10496620760898856,
+         "id": 1,
          "name": "ROG Flow Z13-ACRNM RMT02 GZ301VIC-RMT02",
          "lastprice": 2499.99,
          "saleprice": 0,
@@ -20,7 +20,7 @@
          "img4": "https://github.com/phuongsss/laptop/blob/main/img/sanpham/asus/0-4.png?raw=true"
       },
       {
-         "id": 0.5906292714332533,
+         "id": 2,
          "name": "ROG Flow Z13 (2023) GZ301VV-MU013X",
          "lastprice": 1749.99,
          "saleprice": 0,
@@ -39,7 +39,7 @@
          "img4": "https://github.com/phuongsss/laptop/blob/main/img/sanpham/asus/1-4.png?raw=true"
       },
       {
-         "id": 0.8225347248327213,
+         "id": 3,
          "name": "ROG Zephyrus G14 (2023) GA402XZ-0007",
          "lastprice": 1599.99,
          "saleprice": 32,
@@ -58,7 +58,7 @@
          "img4": "https://github.com/phuongsss/laptop/blob/main/img/sanpham/asus/2-4.png?raw=true"
       },
       {
-         "id": 0.4830167582331837,
+         "id": 4,
          "name": "ROG Zephyrus Duo 16 (2023) GX650PZ-NM055X",
          "lastprice": 3499.99,
          "saleprice": 11,
@@ -77,7 +77,7 @@
          "img4": ".https://github.com/phuongsss/laptop/blob/main/img/sanpham/asus/3-4.png?raw=true"
       },
       {
-         "id": 0.7720153837395187,
+         "id": 5,
          "name": "ROG Strix SCAR 17 X3D (2023) G733PYV-LL061X",
          "lastprice": 2899.99,
          "saleprice": 10,
@@ -96,7 +96,7 @@
          "img4": "https://github.com/phuongsss/laptop/blob/main/img/sanpham/asus/4-4.png?raw=true"
       },
       {
-         "id": 0.27182507308723114,
+         "id": 6,
          "name": "ROG Strix SCAR 18 (2023) G834JZ-N6027X",
          "lastprice": 3899,
          "saleprice": 0,
@@ -115,7 +115,7 @@
          "img4": "https://github.com/phuongsss/laptop/blob/main/img/sanpham/asus/5-4.png?raw=true"
       },
       {
-         "id": 0.9474548635639177,
+         "id": 7,
          "name": "ASUS TUF Gaming A16 Advantage Edition (2023)",
          "lastprice": 949.99,
          "saleprice": 8,
@@ -134,7 +134,7 @@
          "img4": "https://github.com/phuongsss/laptop/blob/main/img/sanpham/asus/6-4.png?raw=true"
       },
       {
-         "id": 0.1252984511845734,
+         "id": 8,
          "name": "ASUS TUF Gaming A17 (2022)",
          "lastprice": 1499.99,
          "saleprice": 0,
@@ -153,7 +153,7 @@
          "img4": "https://github.com/phuongsss/laptop/blob/main/img/sanpham/asus/7-4.png?raw=true"
       },
       {
-         "id": 0.8290411264816449,
+         "id": 8,
          "name": "ExpertBook B9 OLED (B9403, 13th Gen Intel)",
          "lastprice": 2439.99,
          "saleprice": 20,
@@ -172,7 +172,7 @@
          "img4": "https://github.com/phuongsss/laptop/blob/main/img/sanpham/asus/8.png?raw=true"
       },
       {
-         "id": 0.40128833920819407,
+         "id": 10,
          "name": "ExpertBook B5 (B5602, 13th Gen Intel)",
          "lastprice": 1699.99,
          "saleprice": 23,
@@ -193,7 +193,7 @@
    ],
    "msi": [
       {
-         "id": 0.8563595310495673,
+         "id": 11,
          "name": "Titan GT77 HX 13V",
          "lastprice": 3199,
          "saleprice": 19,
@@ -212,7 +212,7 @@
          "img4": "https://github.com/phuongsss/laptop/blob/main/img/sanpham/msi/0-4.png?raw=true"
       },
       {
-         "id": 0.4351908950634469,
+         "id": 12,
          "name": "Stealth 16 Mercedes-AMG Motorsport A13V",
          "lastprice": 2899,
          "saleprice": 0,
@@ -231,7 +231,7 @@
          "img4": "https://github.com/phuongsss/laptop/blob/main/img/sanpham/msi/1-4.png?raw=true"
       },
       {
-         "id": 0.16031570609063173,
+         "id": 13,
          "name": "Stealth 17 Studio A13V",
          "lastprice": 2793.89,
          "saleprice": 0,
@@ -250,7 +250,7 @@
          "img4": "https://github.com/phuongsss/laptop/blob/main/img/sanpham/msi/2-4.png?raw=true"
       },
       {
-         "id": 0.2577933108482686,
+         "id": 14,
          "name": "STEALTH 17M",
          "lastprice": 2793.89,
          "saleprice": 0,
@@ -269,7 +269,7 @@
          "img4": "https://github.com/phuongsss/laptop/blob/main/img/sanpham/msi/3-4.png?raw=true"
       },
       {
-         "id": 0.2362956202289861,
+         "id": 15,
          "name": "Raider GE78 HX Smart Touchpad 13V",
          "lastprice": 2599,
          "saleprice": 0,
@@ -288,7 +288,7 @@
          "img4": "https://github.com/phuongsss/laptop/blob/main/img/sanpham/msi/4-4.png?raw=true"
       },
       {
-         "id": 0.6208590136152712,
+         "id": 16,
          "name": "Latest 12th Gen. Intel® Core™ i9 processor",
          "lastprice": 1859,
          "saleprice": 0,
@@ -307,7 +307,7 @@
          "img4": "https://github.com/phuongsss/laptop/blob/main/img/sanpham/msi/5-4.png?raw=true"
       },
       {
-         "id": 0.5543922406535864,
+         "id": 17,
          "name": "Vector GP78 HX 13V",
          "lastprice": 4499,
          "saleprice": 0,
@@ -326,7 +326,7 @@
          "img4": "https://github.com/phuongsss/laptop/blob/main/img/sanpham/msi/6-4.png?raw=true"
       },
       {
-         "id": 0.23327042566176015,
+         "id": 18,
          "name": "Vector GP78 HX 13V",
          "lastprice": 2399,
          "saleprice": 0,
@@ -347,7 +347,7 @@
    ],
    "gigabyte": [
       {
-         "id": 0.30217401983873615,
+         "id": 19,
          "name": "G6 (2023)",
          "lastprice": 1099,
          "saleprice": 20,
@@ -366,7 +366,7 @@
          "img4": "https://github.com/phuongsss/laptop/blob/main/img/sanpham/gigabyte/0-4.png?raw=true"
       },
       {
-         "id": 0.7811650966854791,
+         "id": 20,
          "name": "A5 (AMD Ryzen™ 5000 Series)",
          "lastprice": 1749,
          "saleprice": 0,
@@ -385,7 +385,7 @@
          "img4": "https://github.com/phuongsss/laptop/blob/main/img/sanpham/gigabyte/1-4.png?raw=true"
       },
       {
-         "id": 0.959065496521794,
+         "id": 21,
          "name": "AERO 16 OLED (2023)",
          "lastprice": 2299,
          "saleprice": 9,
@@ -404,7 +404,7 @@
          "img4": "https://github.com/phuongsss/laptop/blob/main/img/sanpham/gigabyte/2-4.png?raw=true"
       },
       {
-         "id": 0.7310994310945729,
+         "id": 22,
          "name": "AERO 17 HDR (RTX 30 Series)",
          "lastprice": 2999,
          "saleprice": 0,
@@ -423,7 +423,7 @@
          "img4": "https://github.com/phuongsss/laptop/blob/main/img/sanpham/gigabyte/3-4.png?raw=true"
       },
       {
-         "id": 0.04916969045416453,
+         "id": 23,
          "name": "AORUS 16 (2023)",
          "lastprice": 1499,
          "saleprice": 0,
@@ -442,7 +442,7 @@
          "img4": "https://github.com/phuongsss/laptop/blob/main/img/sanpham/gigabyte/4-4.png?raw=true"
       },
       {
-         "id": 0.29317104662582727,
+         "id": 24,
          "name": "AORUS 7 (2023)",
          "lastprice": 1149,
          "saleprice": 0,
@@ -461,7 +461,7 @@
          "img4": "https://github.com/phuongsss/laptop/blob/main/img/sanpham/gigabyte/5-4.png?raw=true"
       },
       {
-         "id": 0.5739391844084383,
+         "id": 25,
          "name": "AORUS 17X (2023)",
          "lastprice": 2699,
          "saleprice": 7,
@@ -482,7 +482,7 @@
    ],
    "acer": [
       {
-         "id": 0.9510929782888184,
+         "id": 26,
          "name": "Nitro 16 Gaming Laptop - AN16-41-R6HK",
          "lastprice": 1199.99,
          "saleprice": 33,
@@ -501,7 +501,7 @@
          "img4": "https://github.com/phuongsss/laptop/blob/main/img/sanpham/acer/0-4.png?raw=true"
       },
       {
-         "id": 0.34987881408393284,
+         "id": 27,
          "name": "Nitro 5 Gaming Laptop - AN515-58-552Y",
          "lastprice": 999.99,
          "saleprice": 0,
@@ -520,7 +520,7 @@
          "img4": "https://github.com/phuongsss/laptop/blob/main/img/sanpham/acer/1-4.png?raw=true"
       },
       {
-         "id": 0.5109744258881013,
+         "id": 28,
          "name": "Nitro 5 Gaming Laptop - AN517-42-R5KZ",
          "lastprice": 1799.99,
          "saleprice": 44,
@@ -539,7 +539,7 @@
          "img4": "https://github.com/phuongsss/laptop/blob/main/img/sanpham/acer/2-4.png?raw=true"
       },
       {
-         "id": 0.31089408173327016,
+         "id": 29,
          "name": "Predator Helios 16",
          "lastprice": 1649.99,
          "saleprice": 0,
@@ -558,7 +558,7 @@
          "img4": "https://github.com/phuongsss/laptop/blob/main/img/sanpham/acer/3-4.png?raw=true"
       },
       {
-         "id": 0.16681073975181016,
+         "id": 30,
          "name": "Predator Helios 18",
          "lastprice": 1649.99,
          "saleprice": 0,
@@ -577,7 +577,7 @@
          "img4": "https://github.com/phuongsss/laptop/blob/main/img/sanpham/acer/4-4.png?raw=true"
       },
       {
-         "id": 0.07335739950466236,
+         "id": 31,
          "name": "Predator Helios 18",
          "lastprice": 1749.99,
          "saleprice": 0,
@@ -596,7 +596,7 @@
          "img4": "https://github.com/phuongsss/laptop/blob/main/img/sanpham/acer/5-4.png?raw=true"
       },
       {
-         "id": 0.5983980452930833,
+         "id": 32,
          "name": "Predator Triton 300 SE",
          "lastprice": 1599.99,
          "saleprice": 0,
@@ -615,7 +615,7 @@
          "img4": "https://github.com/phuongsss/laptop/blob/main/img/sanpham/acer/6-4.png?raw=true"
       },
       {
-         "id": 0.07825715839860892,
+         "id": 33,
          "name": "Predator Triton 500 SE",
          "lastprice": 2399.99,
          "saleprice": 0,
@@ -634,7 +634,7 @@
          "img4": "https://github.com/phuongsss/laptop/blob/main/img/sanpham/acer/7-4.png?raw=true"
       },
       {
-         "id": 0.42548309351700997,
+         "id": 34,
          "name": "ConceptD 3 Laptop",
          "lastprice": 999.99,
          "saleprice": 0,
@@ -653,7 +653,7 @@
          "img4": "https://github.com/phuongsss/laptop/blob/main/img/sanpham/acer/8-4.png?raw=true"
       },
       {
-         "id": 0.9750319130240652,
+         "id": 35,
          "name": "Aspire 1 Laptop",
          "lastprice": 299.99,
          "saleprice": 40,
@@ -672,7 +672,7 @@
          "img4": "https://github.com/phuongsss/laptop/blob/main/img/sanpham/acer/9-4.png?raw=true"
       },
       {
-         "id": 0.38201903772359214,
+         "id": 36,
          "name": "Swift X Laptop - SFX16-52G-73U6",
          "lastprice": 1249.99,
          "saleprice": 36,
@@ -693,7 +693,7 @@
    ],
    "ios": [
       {
-         "id": 0.40896486532057863,
+         "id": 37,
          "name": "MacBook Air M1",
          "lastprice": 1178,
          "saleprice": 21,
@@ -712,7 +712,7 @@
          "img4": "https://github.com/phuongsss/laptop/blob/main/img/sanpham/ios/0-4.png?raw=true"
       },
       {
-         "id": 0.34605208873982485,
+         "id": 38,
          "name": "MacBook Air M2",
          "lastprice": 1272.5,
          "saleprice": 0,
@@ -731,7 +731,7 @@
          "img4": "https://github.com/phuongsss/laptop/blob/main/img/sanpham/ios/1-4.png?raw=true"
       },
       {
-         "id": 0.09321596099867002,
+         "id": 39,
          "name": "MacBook Pro M2",
          "lastprice": 2434.99,
          "saleprice": 0,
@@ -750,7 +750,7 @@
          "img4": "https://github.com/phuongsss/laptop/blob/main/img/sanpham/ios/2-4.png?raw=true"
       },
       {
-         "id": 0.9196534921167085,
+         "id": 40,
          "name": "MacBook Pro",
          "lastprice": 5299,
          "saleprice": 0,
@@ -771,7 +771,7 @@
    ],
    "hp": [
       {
-         "id": 0.756629853046271,
+         "id": 41,
          "name": "Victus by HP Gaming Laptop16t-r000, 16.1",
          "lastprice": 1149.99,
          "saleprice": 0,
@@ -790,7 +790,7 @@
          "img4": "https://github.com/phuongsss/laptop/blob/main/img/sanpham/hp/0-4.png?raw=true"
       },
       {
-         "id": 0.9478330428122337,
+         "id": 42,
          "name": "OMEN Laptop",
          "lastprice": 1299.99,
          "saleprice": 0,
@@ -809,7 +809,7 @@
          "img4": "https://github.com/phuongsss/laptop/blob/main/img/sanpham/hp/1-4.png?raw=true"
       },
       {
-         "id": 0.15730227312404765,
+         "id": 43,
          "name": "Victus by HP Gaming Laptop 15z-fb100, 15.6",
          "lastprice": 699.99,
          "saleprice": 0,
@@ -828,7 +828,7 @@
          "img4": "https://github.com/phuongsss/laptop/blob/main/img/sanpham/hp/2-4.png?raw=true"
       },
       {
-         "id": 0.6242374503921329,
+         "id": 44,
          "name": "OMEN by HP Gaming Laptop 16t-wf000, 16.1",
          "lastprice": 1149.99,
          "saleprice": 0,
@@ -847,7 +847,7 @@
          "img4": "https://github.com/phuongsss/laptop/blob/main/img/sanpham/hp/3-4.png?raw=true"
       },
       {
-         "id": 0.6447057810180146,
+         "id": 45,
          "name": "HP Envy Laptop 16-h1047nr",
          "lastprice": 1149.99,
          "saleprice": 0,
@@ -866,7 +866,7 @@
          "img4": "https://github.com/phuongsss/laptop/blob/main/img/sanpham/hp/4-4.png?raw=true"
       },
       {
-         "id": 0.8493856059871954,
+         "id": 46,
          "name": "HP Pavilion x360",
          "lastprice": 969.99,
          "saleprice": 0,
